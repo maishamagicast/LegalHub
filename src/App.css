@@ -1,0 +1,70 @@
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem;
+  font-family: system-ui, sans-serif;
+  background: #fdfdfd;
+}
+
+.main-heading {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.75rem;
+  margin-bottom: 1.5rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.chapter-list-item {
+  margin-bottom: 1rem;
+}
+
+.chapter-button {
+  font-size: 1.1rem;
+  color: #1d3557;
+  background: none;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  padding: 0;
+}
+
+.chapter-button:hover {
+  text-decoration: underline;
+}
+
+.back-button {
+  margin-bottom: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #eee;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.chapter-title {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.article-block {
+  margin-top: 1rem;
+  padding-left: 1rem;
+  border-left: 3px solid #e1e1e1;
+}
+
+.article-title {
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+.article-content {
+  white-space: pre-wrap;
+  line-height: 1.6;
+}
