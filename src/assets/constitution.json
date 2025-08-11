@@ -264,83 +264,87 @@
         }
     ]
     },
+   {
+  "chapter": "Chapter 5. LAND AND ENVIRONMENT",
+  "parts": [
     {
-  "chapter": "Chapter 5",
-  "title": "LAND AND ENVIRONMENT - Part 1: Land",
-  "articles": [
-    {
-      "number": "60",
-      "title": "Principles of land policy",
-      "content": "1. Land in Kenya shall be held, used and managed in a manner that is equitable, efficient, productive and sustainable, and in accordance with the following principles:\n   a. equitable access to land;\n   b. security of land rights;\n   c. sustainable and productive management of land resources;\n   d. transparent and cost effective administration of land;\n   e. sound conservation and protection of ecologically sensitive areas;\n   f. elimination of gender discrimination in law, customs and practices related to land and property in land; and\n   g. encouragement of communities to settle land disputes through recognised local community initiatives consistent with this Constitution.\n2. These principles shall be implemented through a national land policy developed and reviewed regularly by the national government and through legislation."
-    },
-    {
-      "number": "61",
-      "title": "Classification of land",
-      "content": "1. All land in Kenya belongs to the people of Kenya collectively as a nation, as communities and as individuals.\n2. Land in Kenya is classified as public, community or private."
-    },
-    {
-      "number": "62",
-      "title": "Public land",
-      "content": "1. Public land is:\n   a. land which at the effective date was unalienated government land;\n   b. land lawfully held, used or occupied by any State organ, except such land that is occupied as lessee under a private lease;\n   c. land transferred to the State by way of sale, reversion or surrender;\n   d. land in respect of which no individual or community ownership can be established by any legal process;\n   e. land in respect of which no heir can be identified by any legal process;\n   f. all minerals and mineral oils as defined by law;\n   g. government forests (excluding Article 63 (2) (d) (i)), game reserves, water catchment areas, national parks, animal sanctuaries, and specially protected areas;\n   h. all roads and thoroughfares provided for by an Act of Parliament;\n   i. all rivers, lakes and other water bodies as defined by an Act of Parliament;\n   j. the territorial sea, exclusive economic zone and seabed;\n   k. the continental shelf;\n   l. all land between the high and low water marks;\n   m. any land not classified as private or community land;\n   n. any other land declared to be public land by an Act of Parliament.\n2. Public land shall vest in and be held by a county government in trust for the people resident in the county, and administered by the National Land Commission if classified under:\n   a. clause (1)(a), (c), (d) or (e); and\n   b. clause (1)(b), excluding land held, used or occupied by a national State organ.\n3. Land under clause (1)(f) to (m) vests in and is held by the national government in trust for the people of Kenya and administered by the National Land Commission.\n4. Public land shall not be disposed of or otherwise used except by terms set in an Act of Parliament."
-    },
-    {
-      "number": "63",
-      "title": "Community land",
-      "content": "1. Community land shall vest in and be held by communities identified by ethnicity, culture or similar community of interest.\n2. Community land consists of:\n   a. land lawfully registered in the name of group representatives;\n   b. land lawfully transferred to a specific community;\n   c. land declared as community land by an Act of Parliament;\n   d. land that is:\n      i. lawfully held, managed or used as community forests, grazing areas or shrines;\n      ii. ancestral lands or lands traditionally occupied by hunter-gatherer communities;\n      iii. lawfully held as trust land by county governments.\n3. Unregistered community land shall be held in trust by county governments on behalf of the communities.\n4. Community land shall not be disposed of or used except by legislation specifying the rights of members.\n5. Parliament shall enact legislation to give effect to this Article."
-    },
-    {
-      "number": "64",
-      "title": "Private land",
-      "content": "Private land consists of:\n   a. registered land held by any person under freehold tenure;\n   b. land held under leasehold tenure;\n   c. land declared private under an Act of Parliament."
-    },
-    {
-      "number": "65",
-      "title": "Landholding by non-citizens",
-      "content": "1. A non-citizen may hold land on leasehold only, and not exceeding 99 years.\n2. Any document granting more than 99 years to a non-citizen is deemed to confer only a 99-year leasehold.\n3. For this Article:\n   a. a body corporate is a citizen only if wholly owned by citizens;\n   b. trust property is considered held by a citizen only if the beneficial interest is held by citizens.\n4. Parliament may legislate further provisions."
-    },
-    {
-      "number": "66",
-      "title": "Regulation of land use and property",
-      "content": "1. The State may regulate land use in the interest of defence, safety, public order, morality, health, or planning.\n2. Parliament shall ensure property investments benefit local communities and economies."
-    },
-    {
-      "number": "67",
-      "title": "National Land Commission",
-      "content": "1. The National Land Commission is established.\n2. Its functions are:\n   a. manage public land on behalf of national and county governments;\n   b. recommend national land policy;\n   c. advise on land title registration nationwide;\n   d. conduct research on land and resource use and recommend action;\n   e. investigate land injustices and recommend redress;\n   f. encourage traditional dispute resolution in land matters;\n   g. assess land tax and immovable property premiums;\n   h. monitor land use planning.\n3. The Commission may perform other functions set by legislation."
-    },
-    {
-      "number": "68",
-      "title": "Legislation on land",
-      "content": "Parliament shall:\n   a. revise, consolidate and rationalise land laws;\n   b. revise land use laws in line with Article 60(1);\n   c. enact laws:\n      i. on minimum/maximum landholding sizes for private land;\n      ii. on changing land categories;\n      iii. to protect matrimonial property, especially the matrimonial home;\n      iv. to preserve and enable access to public land;\n      v. to review all grants/dispositions of public land for legality;\n      vi. to protect dependants of deceased persons with land interests;\n      vii. on any other matter for implementing this Chapter."
+      "part": "Part 1. Land",
+      "articles": [
+        {
+          "number": "60",
+          "title": "Principles of land policy",
+          "content": "1. Land in Kenya shall be held, used and managed in a manner that is equitable, efficient, productive and sustainable, and in accordance with the following principles:\n   a. equitable access to land;\n   b. security of land rights;\n   c. sustainable and productive management of land resources;\n   d. transparent and cost effective administration of land;\n   e. sound conservation and protection of ecologically sensitive areas;\n   f. elimination of gender discrimination in law, customs and practices related to land and property in land; and\n   g. encouragement of communities to settle land disputes through recognised local community initiatives consistent with this Constitution.\n2. These principles shall be implemented through a national land policy developed and reviewed regularly by the national government and through legislation."
+        },
+        {
+          "number": "61",
+          "title": "Classification of land",
+          "content": "1. All land in Kenya belongs to the people of Kenya collectively as a nation, as communities and as individuals.\n2. Land in Kenya is classified as public, community or private."
+        },
+        {
+          "number": "62",
+          "title": "Public land",
+          "content": "1. Public land is:\n   a. land which at the effective date was unalienated government land;\n   b. land lawfully held, used or occupied by any State organ, except such land that is occupied as lessee under a private lease;\n   c. land transferred to the State by way of sale, reversion or surrender;\n   d. land in respect of which no individual or community ownership can be established by any legal process;\n   e. land in respect of which no heir can be identified by any legal process;\n   f. all minerals and mineral oils as defined by law;\n   g. government forests (excluding Article 63 (2) (d) (i)), game reserves, water catchment areas, national parks, animal sanctuaries, and specially protected areas;\n   h. all roads and thoroughfares provided for by an Act of Parliament;\n   i. all rivers, lakes and other water bodies as defined by an Act of Parliament;\n   j. the territorial sea, exclusive economic zone and seabed;\n   k. the continental shelf;\n   l. all land between the high and low water marks;\n   m. any land not classified as private or community land;\n   n. any other land declared to be public land by an Act of Parliament.\n2. Public land shall vest in and be held by a county government in trust for the people resident in the county, and administered by the National Land Commission if classified under:\n   a. clause (1)(a), (c), (d) or (e); and\n   b. clause (1)(b), excluding land held, used or occupied by a national State organ.\n3. Land under clause (1)(f) to (m) vests in and is held by the national government in trust for the people of Kenya and administered by the National Land Commission.\n4. Public land shall not be disposed of or otherwise used except by terms set in an Act of Parliament."
+        },
+        {
+          "number": "63",
+          "title": "Community land",
+          "content": "1. Community land shall vest in and be held by communities identified by ethnicity, culture or similar community of interest.\n2. Community land consists of:\n   a. land lawfully registered in the name of group representatives;\n   b. land lawfully transferred to a specific community;\n   c. land declared as community land by an Act of Parliament;\n   d. land that is:\n      i. lawfully held, managed or used as community forests, grazing areas or shrines;\n      ii. ancestral lands or lands traditionally occupied by hunter-gatherer communities;\n      iii. lawfully held as trust land by county governments.\n3. Unregistered community land shall be held in trust by county governments on behalf of the communities.\n4. Community land shall not be disposed of or used except by legislation specifying the rights of members.\n5. Parliament shall enact legislation to give effect to this Article."
+        },
+        {
+          "number": "64",
+          "title": "Private land",
+          "content": "Private land consists of:\n   a. registered land held by any person under freehold tenure;\n   b. land held under leasehold tenure;\n   c. land declared private under an Act of Parliament."
+        },
+        {
+          "number": "65",
+          "title": "Landholding by non-citizens",
+          "content": "1. A non-citizen may hold land on leasehold only, and not exceeding 99 years.\n2. Any document granting more than 99 years to a non-citizen is deemed to confer only a 99-year leasehold.\n3. For this Article:\n   a. a body corporate is a citizen only if wholly owned by citizens;\n   b. trust property is considered held by a citizen only if the beneficial interest is held by citizens.\n4. Parliament may legislate further provisions."
+        },
+        {
+          "number": "66",
+          "title": "Regulation of land use and property",
+          "content": "1. The State may regulate land use in the interest of defence, safety, public order, morality, health, or planning.\n2. Parliament shall ensure property investments benefit local communities and economies."
+        },
+        {
+          "number": "67",
+          "title": "National Land Commission",
+          "content": "1. The National Land Commission is established.\n2. Its functions are:\n   a. manage public land on behalf of national and county governments;\n   b. recommend national land policy;\n   c. advise on land title registration nationwide;\n   d. conduct research on land and resource use and recommend action;\n   e. investigate land injustices and recommend redress;\n   f. encourage traditional dispute resolution in land matters;\n   g. assess land tax and immovable property premiums;\n   h. monitor land use planning.\n3. The Commission may perform other functions set by legislation."
+        },
+        {
+          "number": "68",
+          "title": "Legislation on land",
+          "content": "Parliament shall:\n   a. revise, consolidate and rationalise land laws;\n   b. revise land use laws in line with Article 60(1);\n   c. enact laws:\n      i. on minimum/maximum landholding sizes for private land;\n      ii. on changing land categories;\n      iii. to protect matrimonial property, especially the matrimonial home;\n      iv. to preserve and enable access to public land;\n      v. to review all grants/dispositions of public land for legality;\n      vi. to protect dependants of deceased persons with land interests;\n      vii. on any other matter for implementing this Chapter."
         }
-    ]
+      ]
     },
     {
-  "chapter": "Chapter 5",
-  "title": "LAND AND ENVIRONMENT - Part 2: Environment and Natural Resources",
-  "articles": [
-    {
-      "number": "69",
-      "title": "Obligations in respect of the environment",
-      "content": "1. The State shall:\n   a. ensure sustainable exploitation, utilisation, management and conservation of the environment and natural resources, and ensure the equitable sharing of the accruing benefits;\n   b. work to achieve and maintain a tree cover of at least ten per cent of the land area of Kenya;\n   c. protect and enhance intellectual property in, and indigenous knowledge of, biodiversity and the genetic resources of the communities;\n   d. encourage public participation in the management, protection and conservation of the environment;\n   e. protect genetic resources and biological diversity;\n   f. establish systems of environmental impact assessment, environmental audit and monitoring of the environment;\n   g. eliminate processes and activities that are likely to endanger the environment; and\n   h. utilise the environment and natural resources for the benefit of the people of Kenya.\n2. Every person has a duty to cooperate with State organs and other persons to protect and conserve the environment and ensure ecologically sustainable development and use of natural resources."
-    },
-    {
-      "number": "70",
-      "title": "Enforcement of environmental rights",
-      "content": "1. If a person alleges that a right to a clean and healthy environment recognised and protected under Article 42 has been, is being or is likely to be, denied, violated, infringed or threatened, the person may apply to a court for redress in addition to any other legal remedies that are available in respect to the same matter.\n2. On application under clause (1), the court may make any order, or give any directions, it considers appropriate:\n   a. to prevent, stop or discontinue any act or omission that is harmful to the environment;\n   b. to compel any public officer to take measures to prevent or discontinue any act or omission that is harmful to the environment; or\n   c. to provide compensation for any victim of a violation of the right to a clean and healthy environment.\n3. For the purposes of this Article, an applicant does not have to demonstrate that any person has incurred loss or suffered injury."
-    },
-    {
-      "number": "71",
-      "title": "Agreements relating to natural resources",
-      "content": "1. A transaction is subject to ratification by Parliament if it:\n   a. involves the grant of a right or concession by or on behalf of any person, including the national government, to another person for the exploitation of any natural resource of Kenya; and\n   b. is entered into on or after the effective date.\n2. Parliament shall enact legislation providing for the classes of transactions subject to ratification under clause (1)."
-    },
-    {
-      "number": "72",
-      "title": "Legislation relating to the environment",
-      "content": "Parliament shall enact legislation to give full effect to the provisions of this Part."
+      "part": "Part 2. Environment and Natural Resources",
+      "articles": [
+        {
+          "number": "69",
+          "title": "Obligations in respect of the environment",
+          "content": "1. The State shall:\n   a. ensure sustainable exploitation, utilisation, management and conservation of the environment and natural resources, and ensure the equitable sharing of the accruing benefits;\n   b. work to achieve and maintain a tree cover of at least ten per cent of the land area of Kenya;\n   c. protect and enhance intellectual property in, and indigenous knowledge of, biodiversity and the genetic resources of the communities;\n   d. encourage public participation in the management, protection and conservation of the environment;\n   e. protect genetic resources and biological diversity;\n   f. establish systems of environmental impact assessment, environmental audit and monitoring of the environment;\n   g. eliminate processes and activities that are likely to endanger the environment; and\n   h. utilise the environment and natural resources for the benefit of the people of Kenya.\n2. Every person has a duty to cooperate with State organs and other persons to protect and conserve the environment and ensure ecologically sustainable development and use of natural resources."
+        },
+        {
+          "number": "70",
+          "title": "Enforcement of environmental rights",
+          "content": "1. If a person alleges that a right to a clean and healthy environment recognised and protected under Article 42 has been, is being or is likely to be, denied, violated, infringed or threatened, the person may apply to a court for redress in addition to any other legal remedies that are available in respect to the same matter.\n2. On application under clause (1), the court may make any order, or give any directions, it considers appropriate:\n   a. to prevent, stop or discontinue any act or omission that is harmful to the environment;\n   b. to compel any public officer to take measures to prevent or discontinue any act or omission that is harmful to the environment; or\n   c. to provide compensation for any victim of a violation of the right to a clean and healthy environment.\n3. For the purposes of this Article, an applicant does not have to demonstrate that any person has incurred loss or suffered injury."
+        },
+        {
+          "number": "71",
+          "title": "Agreements relating to natural resources",
+          "content": "1. A transaction is subject to ratification by Parliament if it:\n   a. involves the grant of a right or concession by or on behalf of any person, including the national government, to another person for the exploitation of any natural resource of Kenya; and\n   b. is entered into on or after the effective date.\n2. Parliament shall enact legislation providing for the classes of transactions subject to ratification under clause (1)."
+        },
+        {
+          "number": "72",
+          "title": "Legislation relating to the environment",
+          "content": "Parliament shall enact legislation to give full effect to the provisions of this Part."
         }
-    ]
-    },
+          ]
+        }
+      ]
+    }
+,
     {
   "chapter": "Chapter 6",
   "title": "LEADERSHIP AND INTEGRITY",
@@ -511,9 +515,284 @@
       "number": "105",
       "title": "Determination of questions of membership",
       "content": "1. The High Court shall hear and determine any question whether:\n  a. A person has been validly elected as a member of Parliament; or\n  b. The seat of a member has become vacant.\n2. A question under clause (1) shall be heard and determined within six months of the date of lodging the petition.\n3. Parliament shall enact legislation to give full effect to this Article."
+    },
+    {
+  "chapter": "Chapter 8",
+  "part": "Part 3: Offices of Parliament",
+  "articles": [
+    {
+      "number": "106",
+      "title": "Speakers and Deputy Speakers of Parliament",
+      "content": "1. There shall be:\n  a. A Speaker for each House of Parliament, who shall be elected by that House in accordance with the Standing Orders, from among persons who are qualified to be elected as members of Parliament but are not such members; and\n  b. A Deputy Speaker for each House of Parliament, who shall be elected by that House in accordance with the Standing Orders, from among the members of that House.\n2. The office of Speaker or Deputy Speaker shall become vacant:\n  a. When a new House of Parliament first meets after an election;\n  b. If the office holder, as a member of the relevant House, vacates office under Article 103;\n  c. If the relevant House so resolves by resolution supported by the votes of at least two-thirds of its members; or\n  d. If the office holder resigns from office in a letter addressed to the relevant House."
+    },
+    {
+      "number": "107",
+      "title": "Presiding in Parliament",
+      "content": "1. At any sitting of a House of Parliament:\n  a. The Speaker presides;\n  b. In the absence of the Speaker, the Deputy Speaker presides; and\n  c. In the absence of the Speaker and the Deputy Speaker, another member of the House elected by the House presides.\n2. At a joint sitting of the Houses of Parliament, the Speaker of the National Assembly shall preside, assisted by the Speaker of the Senate."
+    },
+    {
+      "number": "108",
+      "title": "Party leaders",
+      "content": "1. There shall be a leader of the majority party and a leader of the minority party.\n2. The leader of the majority party shall be the person who is the leader in the National Assembly of the largest party or coalition of parties.\n3. The leader of the minority party shall be the person who is the leader in the National Assembly of the second largest party or coalition of parties.\n4. The following order of precedence shall be observed in the National Assembly:\n  a. The Speaker of the National Assembly;\n  b. The leader of the majority party; and\n  c. The leader of the minority party."
+    }
+  ]
+},
+{
+  "chapter": "Chapter 8",
+  "part": "Part 4: Procedures for Enacting Legislation",
+  "articles": [
+    {
+      "number": "109",
+      "title": "Exercise of legislative powers",
+      "content": "1. Parliament shall exercise its legislative power through Bills passed by Parliament and assented to by the President.\n2. Any Bill may originate in the National Assembly.\n3. A Bill not concerning county government is considered only in the National Assembly, and passed in accordance with Article 122 and the Standing Orders of the Assembly.\n4. A Bill concerning county government may originate in the National Assembly or the Senate, and is passed in accordance with Articles 110 to 113, Articles 122 and 123 and the Standing Orders of the Houses.\n5. A Bill may be introduced by any member or committee of the relevant House of Parliament, but a money Bill may be introduced only in the National Assembly in accordance with Article 114."
+      },
+      {
+      "number": "110",
+      "title": "Bills concerning county government",
+      "content": "1. In this Constitution, \"a Bill concerning county government\" means\n a. a Bill containing provisions affecting the functions and powers of the county governments set out in the Fourth Schedule;\n b. a Bill relating to the election of members of a county assembly or a county executive; and\n c. a Bill referred to in Chapter Twelve affecting the finances of county governments.\n2. A Bill concerning county governments is\n a. a special Bill, which shall be considered under Article 111, if it\n  i. relates to the election of members of a county assembly or a county executive; or\n  ii. is the annual County Allocation of Revenue Bill mentioned in Article 218; or\n b. an ordinary Bill, which shall be considered under Article 112, in any other case.\n3. Before either House considers a Bill, the Speakers of the National Assembly and Senate shall jointly resolve any question as to whether it is a Bill concerning counties and, if it is, whether it is a special or an ordinary Bill.\n4. When any Bill concerning county government has been passed by one House of Parliament, the Speaker of that House shall refer it to the Speaker of the other House.\n5. If both Houses pass the Bill in the same form, the Speaker of the House in which the Bill originated shall, within seven days, refer the Bill to the President for assent."
+    },
+    {
+      "number": "111",
+      "title": "Special Bills concerning county governments",
+      "content": "1. A special Bill concerning a county government shall proceed in the same manner as an ordinary Bill concerning county government, subject to clauses (2) and (3).\n2. The National Assembly may amend or veto a special Bill that has been passed by the Senate only by a resolution supported by at least two-thirds of the members of the Assembly.\n3. If a resolution in the National Assembly to amend or veto a special Bill fails to pass, the Speaker of the Assembly shall, within seven days, refer the Bill, in the form adopted by the Senate, to the President for assent."
+    },
+    {
+      "number": "112",
+      "title": "Ordinary Bills concerning county governments",
+      "content": "1. If one House passes an ordinary Bill concerning counties, and the second House\n a. rejects the Bill, it shall be referred to a mediation committee appointed under Article 113; or\n b. passes the Bill in an amended form, it shall be referred back to the originating House for reconsideration.\n2. If, after the originating House has reconsidered a Bill referred back to it under clause (1) (b), that House\n a. passes the Bill as amended, the Speaker of that House shall refer the Bill to the President within seven days for assent; or\n b. rejects the Bill as amended, the Bill shall be referred to a mediation committee under Article 113."
+    },
+    {
+      "number": "113",
+      "title": "Mediation committees",
+      "content": "1. If a Bill is referred to a mediation committee under Article 112, the Speakers of both Houses shall appoint a mediation committee consisting of equal numbers of members of each House to attempt to develop a version of the Bill that both Houses will pass.\n2. If the mediation committee agrees on a version of the Bill, each House shall vote to approve or reject that version of the Bill.\n3. If both Houses approve the version of the Bill proposed by the mediation committee, the Speaker of the National Assembly shall refer the Bill to the President within seven days for assent.\n4. If the mediation committee fails to agree on a version of the Bill within thirty days, or if a version proposed by the committee is rejected by either House, the Bill is defeated."
+    },
+    {
+      "number": "114",
+      "title": "Money Bills",
+      "content": "1. A money Bill may not deal with any matter other than those listed in the definition of \"a money Bill\" in clause (3).\n2. If, in the opinion of the Speaker of the National Assembly, a motion makes provision for a matter mentioned in the definition of \"a money Bill\", the Assembly may proceed only in accordance with the recommendation of the relevant Committee of the Assembly after taking into account the views of the Cabinet Secretary responsible for finance.\n3. In this Constitution, \"a money Bill\" means a Bill, other than a Bill specified in Article 218, that contains provisions dealing with\n a. taxes;\n b. the imposition of charges on a public fund or the variation or repeal of any of those charges;\n c. the appropriation, receipt, custody, investment or issue of public money;\n d. the raising or guaranteeing of any loan or its repayment; or\n e. matters incidental to any of those matters.\n4. In clause (3), \"tax\", \"public money\", and \"loan\" do not include any tax, public money or loan raised by a county."
+    },
+    {
+      "number": "115",
+      "title": "Presidential assent and referral",
+      "content": "1. Within fourteen days after receipt of a Bill, the President shall\n a. assent to the Bill; or\n b. refer the Bill back to Parliament for reconsideration by Parliament, noting any reservations that the President has concerning the Bill.\n2. If the President refers a Bill back for reconsideration, Parliament may, following the appropriate procedures under this Part\n a. amend the Bill in light of the President's reservations; or\n b. pass the Bill a second time without amendment.\n3. If Parliament amends the Bill fully accommodating the President's reservations, the appropriate Speaker shall re-submit it to the President for assent.\n4. Parliament, after considering the President's reservations, may pass the Bill a second time, without amendment, or with amendments that do not fully accommodate the President's reservations, by a vote supported\n a. by two-thirds of members of the National Assembly; and\n b. two-thirds of the delegations in the Senate, if it is a Bill that requires the approval of the Senate.\n5. If Parliament has passed a Bill under clause (4)\n a. the appropriate Speaker shall within seven days re-submit it to the President; and\n b. the President shall within seven days assent to the Bill.\n6. If the President does not assent to a Bill or refer it back within the period prescribed in clause (1), or assent to it under (5) (b), the Bill shall be taken to have been assented to on the expiry of that period."
+    },
+    {
+      "number": "116",
+      "title": "Coming into force of laws",
+      "content": "1. A Bill passed by Parliament and assented to by the President shall be published in the Gazette as an Act of Parliament within seven days after assent.\n2. Subject to clause (3), an Act of Parliament comes into force on the fourteenth day after its publication in the Gazette, unless the Act stipulates a different date on or time at which it will come into force.\n3. An Act of Parliament that confers a direct pecuniary interest on members of Parliament shall not come into force until after the next general election of members of Parliament.\n4. Clause (3) does not apply to an interest that members of Parliament have as members of the public."
+      }
+      ]
+    },
+    {
+  "chapter": "Chapter 8",
+  "part": "Part 5. Parliament's General Procedures and Rules",
+  "articles": [
+    {
+      "number": "117",
+      "title": "Powers, privileges and immunities",
+      "content": "1. There shall be freedom of speech and debate in Parliament.\n2. Parliament may, for the purpose of the orderly and effective discharge of the business of Parliament, provide for the powers, privileges and immunities of Parliament, its committees, the leader of the majority party, the leader of the minority party, the chairpersons of committees and members."
+    },
+    {
+      "number": "118",
+      "title": "Public access and participation",
+      "content": "1. Parliament shall\n  a. conduct its business in an open manner, and its sittings and those of its committees shall be open to the public; and\n  b. facilitate public participation and involvement in the legislative and other business of Parliament and its committees.\n2. Parliament may not exclude the public, or any media, from any sitting unless in exceptional circumstances the relevant Speaker has determined that there are justifiable reasons for the exclusion."
+    },
+    {
+      "number": "119",
+      "title": "Right to petition Parliament",
+      "content": "1. Every person has a right to petition Parliament to consider any matter within its authority, including to enact, amend or repeal any legislation.\n2. Parliament shall make provision for the procedure for the exercise of this right."
+    },
+    {
+      "number": "120",
+      "title": "Official languages of Parliament",
+      "content": "1. The official languages of Parliament shall be Kiswahili, English and Kenyan Sign language, and the business of Parliament may be conducted in English, Kiswahili and Kenyan Sign language.\n2. In case of a conflict between different language versions of an Act of Parliament, the version signed by the President shall prevail."
+    },
+    {
+      "number": "121",
+      "title": "Quorum",
+      "content": "The quorum of Parliament shall be\n  a. fifty members, in the case of the National Assembly; or\n  b. fifteen members, in the case of the Senate."
+    },
+    {
+      "number": "122",
+      "title": "Voting in Parliament",
+      "content": "1. Except as otherwise provided in this Constitution, any question proposed for decision in either House of Parliament shall be determined by a majority of the members in that House, present and voting.\n2. On a question proposed for decision in either House\n  a. the Speaker has no vote; and\n  b. in the case of a tie, the question is lost.\n3. A member shall not vote on any question in which the member has a pecuniary interest.\n4. In reckoning the number of members of a House of Parliament for any purpose of voting in that House, the Speaker of that House shall not be counted as a member."
+    },
+    {
+      "number": "123",
+      "title": "Decisions of Senate",
+      "content": "1. On election, all the members of the Senate who were registered as voters in a particular county shall collectively constitute a single delegation for purposes of clause (4) and the member elected under Article 98 (1) (a) shall be the head of the delegation.\n2. When the Senate is to vote on any matter other than a Bill, the Speaker shall rule on whether the matter affects or does not affect counties.\n3. When the Senate votes on a matter that does not affect counties, each senator has one vote.\n4. Except as provided otherwise in this Constitution, in any matter in the Senate affecting counties\n  a. each county delegation shall have one vote to be cast on behalf of the county by the head of the county delegation or, in the absence of the head of the delegation, by another member of the delegation designated by the head of the delegation;\n  b. the person who votes on behalf of a delegation shall determine whether or not to vote in support of, or against, the matter, after consulting the other members of the delegation; and\n  c. the matter is carried only if it is supported by a majority of all the delegations."
+      },
+      {
+      "number": "124",
+      "title": "Committees and Standing Orders",
+      "content": "1. Each House of Parliament may establish committees, and shall make Standing Orders for the orderly conduct of its proceedings, including the proceedings of its committees.\n2. Parliament may establish joint committees consisting of members of both Houses and may jointly regulate the procedure of those committees.\n3. The proceedings of either House are not invalid just because of\n  a. a vacancy in its membership; or\n  b. the presence or participation of any person not entitled to be present at, or to participate in, the proceedings of the House.\n4. When a House of Parliament considers any appointment for which its approval is required under this Constitution or an Act of Parliament\n  a. the appointment shall be considered by a committee of the relevant House;\n  b. the committee's recommendation shall be tabled in the House for approval; and\n  c. the proceedings of the committee and the House shall be open to the public."
+    },
+    {
+      "number": "125",
+      "title": "Power to call for evidence",
+      "content": "1. Either House of Parliament, and any of its committees, has power to summon any person to appear before it for the purpose of giving evidence or providing information.\n2. For the purposes of clause (1), a House of Parliament and any of its committees has the same powers as the High Court\n  a. to enforce the attendance of witnesses and examine them on oath, affirmation or otherwise;\n  b. to compel the production of documents; and\n  c. to issue a commission or request to examine witnesses abroad."
+      }
+      ]
+    },
+    {
+  "chapter": "Chapter 8",
+  "part": "Part 6. Miscellaneous",
+  "articles": [
+    {
+      "number": "126",
+      "title": "Location of sittings of Parliament",
+      "content": "1. A sitting of either House may be held at any place within Kenya and may commence at any time that the House appoints.\n2. Whenever a new House is elected, the President, by notice in the Gazette, shall appoint the place and date for the first sitting of the new House, which shall be not more than thirty days after the election."
+    },
+    {
+      "number": "127",
+      "title": "Parliamentary Service Commission",
+      "content": "1. There is established the Parliamentary Service Commission.\n2. The Commission consists of\n  a. the Speaker of the National Assembly, as chairperson;\n  b. a vice-chairperson elected by the Commission from the members appointed under paragraph (c);\n  c. seven members appointed by Parliament from among its members of whom\n    i. four shall be nominated equally from both Houses by the party or coalition of parties forming the national government, of whom at least two shall be women; and\n    ii. three shall be nominated by the parties not forming the national government, at least one of whom shall be nominated from each House and at least one of whom shall be a woman; and\n  d. one man and one woman appointed by Parliament from among persons who are experienced in public affairs, but are not members of Parliament.\n3. The Clerk of the Senate shall be the Secretary to the Commission.\n4. A member of the Commission shall vacate office\n  a. if the person is a member of Parliament\n    i. at the end of the term of the House of which the person is a member; or\n    ii. if the person ceases to be a member of Parliament; or\n  b. if the person is an appointed member, on revocation of the person's appointment by Parliament.\n5. Despite clause (4), when the term of a House of Parliament ends, a member of the Commission appointed under clause (2)(c) shall continue in office until a new member has been appointed in the member's place by the next House.\n6. The Commission is responsible for\n  a. providing services and facilities to ensure the efficient and effective functioning of Parliament;\n  b. constituting offices in the parliamentary service, and appointing and supervising office holders;\n  c. preparing annual estimates of expenditure of the parliamentary service and submitting them to the National Assembly for approval, and exercising budgetary control over the service;\n  d. undertaking, singly or jointly with other relevant organisations, programmes to promote the ideals of parliamentary democracy; and\n  e. performing other functions\n    i. necessary for the well-being of the members and staff of Parliament; or\n    ii. prescribed by national legislation."
+    },
+    {
+      "number": "128",
+      "title": "Clerks and staff of Parliament",
+      "content": "1. There shall be a Clerk for each House of Parliament, appointed by the Parliamentary Service Commission with the approval of the relevant House.\n2. The offices of the Clerks and offices of members of the staff of the Clerks shall be offices in the Parliamentary Service."
+      }
+    ]
+  }
+
+
+
+
+
+      ]
+    },
+    {
+  "chapter": "CHAPTER 9. THE EXECUTIVE",
+  "parts": [
+    {
+      "part": "Part 1. Principles and Structure of the National Executive",
+      "articles": [
+        {
+          "number": "129",
+          "title": "Principles of executive authority",
+          "content": "1. Executive authority derives from the people of Kenya and shall be exercised in accordance with this Constitution.\n2. Executive authority shall be exercised in a manner compatible with the principle of service to the people of Kenya, and for their wellbeing and benefit."
+        },
+        {
+          "number": "130",
+          "title": "The National Executive",
+          "content": "1. The national executive of the Republic comprises the President, the Deputy President and the rest of the Cabinet.\n2. The composition of the national executive shall reflect the regional and ethnic diversity of the people of Kenya."
         }
       ]
-    }
+    },
+    {
+      "part": "Part 2. The President and Deputy President",
+      "articles": [
+        {
+          "number": "131",
+          "title": "Authority of the President",
+          "content": "1. The President:\n  a. is the Head of State and Government;\n  b. exercises the executive authority of the Republic, with the assistance of the Deputy President and Cabinet Secretaries;\n  c. is the Commander-in-Chief of the Kenya Defence Forces;\n  d. is the chairperson of the National Security Council; and\n  e. is a symbol of national unity.\n2. The President shall:\n  a. respect, uphold and safeguard this Constitution;\n  b. safeguard the sovereignty of the Republic;\n  c. promote and enhance the unity of the nation;\n  d. promote respect for the diversity of the people and communities of Kenya; and\n  e. ensure the protection of human rights and fundamental freedoms and the rule of law.\n3. The President shall not hold any other State or public office."
+        },
+        {
+          "number": "132",
+          "title": "Functions of the President",
+          "content": "1. The President shall:\n  a. address the opening of each newly elected Parliament;\n  b. address a special sitting of Parliament once every year and may address Parliament at any other time; and\n  c. once every year:\n    i. report, in an address to the nation, on all the measures taken and the progress achieved in the realisation of the national values referred to in Article 10;\n    ii. publish in the Gazette the details of the measures and progress under sub-paragraph (i); and\n    iii. submit a report for debate to the National Assembly on the progress made in fulfilling the international obligations of the Republic.\n2. The President shall nominate and, with the approval of the National Assembly, appoint, and may dismiss:\n  a. the Cabinet Secretaries, in accordance with Article 152;\n  b. the Attorney-General, in accordance with Article 156;\n  c. the Secretary to the Cabinet in accordance with Article 154;\n  d. Principal Secretaries in accordance with Article 155;\n  e. high commissioners, ambassadors and diplomatic and consular representatives; and\n  f. in accordance with this Constitution, any other State or public officer whom this Constitution requires or empowers the President to appoint or dismiss.\n3. The President shall:\n  a. chair Cabinet meetings;\n  b. direct and coordinate the functions of ministries and government departments; and\n  c. by a decision published in the Gazette, assign responsibility for the implementation and administration of any Act of Parliament to a Cabinet Secretary, to the extent not inconsistent with any Act of Parliament.\n4. The President may:\n  a. perform any other executive function provided for in this Constitution or in national legislation and, except as otherwise provided for in this Constitution, may establish an office in the public service in accordance with the recommendation of the Public Service Commission;\n  b. receive foreign diplomatic and consular representatives;\n  c. confer honours in the name of the people and the Republic;\n  d. subject to Article 58, declare a state of emergency; and\n  e. with the approval of Parliament, declare war.\n5. The President shall ensure that the international obligations of the Republic are fulfilled through the actions of the relevant Cabinet Secretaries."
+        },
+        {
+          "number": "133",
+          "title": "Power of mercy",
+          "content": "1. On the petition of any person, the President may exercise a power of mercy in accordance with the advice of the Advisory Committee established under clause (2), by:\n  a. granting a free or conditional pardon to a person convicted of an offence;\n  b. postponing the carrying out of a punishment, either for a specified or indefinite period;\n  c. substituting a less severe form of punishment; or\n  d. remitting all or part of a punishment.\n2. There shall be an Advisory Committee on the Power of Mercy, comprising:\n  a. the Attorney-General;\n  b. the Cabinet Secretary responsible for correctional services; and\n  c. at least five other members as prescribed by an Act of Parliament, none of whom may be a State officer or in public service.\n3. Parliament shall enact legislation to provide for:\n  a. the tenure of the members of the Advisory Committee;\n  b. the procedure of the Advisory Committee; and\n  c. criteria that shall be applied by the Advisory Committee in formulating its advice.\n4. The Advisory Committee may take into account the views of the victims of the offence in respect of which it is considering making recommendations to the President."
+          },
+        {
+          "number": "134",
+          "title": "Supreme Court—composition",
+          "content": "1. The Supreme Court shall consist of—\n  a. the Chief Justice, who shall be the president of the court;\n  b. the Deputy Chief Justice, who shall—\n    i. deputise for the Chief Justice; and\n    ii. be the vice-president of the court;\n  c. not fewer than five and not more than seven other judges as may be prescribed by an Act of Parliament."
+        },
+        {
+          "number": "135",
+          "title": "Supreme Court—jurisdiction",
+          "content": "1. The Supreme Court shall have—\n  a. exclusive original jurisdiction to hear and determine disputes relating to the elections to the office of President arising under Article 140; and\n  b. subject to clause (2), appellate jurisdiction to hear and determine appeals from—\n    i. the Court of Appeal; and\n    ii. any other court or tribunal as prescribed by national legislation.\n2. Appeals to the Supreme Court shall be heard only with the leave of the Supreme Court, or if the Supreme Court, or any other law, requires that they be heard by the Supreme Court.\n3. The Supreme Court may make any order, or grant any relief, that it considers appropriate."
+        },
+        {
+          "number": "136",
+          "title": "Supreme Court—president and deputy president",
+          "content": "1. There shall be a Chief Justice of the Republic, who shall be the head of the Judiciary.\n2. The Deputy Chief Justice shall—\n  a. deputise for the Chief Justice; and\n  b. be the vice-president of the Supreme Court."
+        },
+        {
+          "number": "137",
+          "title": "Supreme Court—vacancy",
+          "content": "1. A vacancy in the office of a judge of the Supreme Court shall be filled in the manner prescribed by an Act of Parliament.\n2. When a vacancy occurs in the office of a judge of the Supreme Court, the Judicial Service Commission shall act expeditiously to fill the vacancy."
+        },
+        {
+          "number": "138",
+          "title": "Supreme Court—quorum",
+          "content": "1. The Supreme Court shall not sit with fewer than five judges.\n2. The Supreme Court may sit as a bench of seven judges or as prescribed by an Act of Parliament."
+        },
+        {
+          "number": "139",
+          "title": "Supreme Court—rules and procedures",
+          "content": "The Supreme Court shall make rules for the exercise of its jurisdiction."
+        },
+        {
+          "number": "140",
+          "title": "Determination of questions as to the validity of presidential election",
+          "content": "1. A person may file a petition in the Supreme Court to challenge the election of the President-elect within seven days after the date of the declaration of the results of the presidential election.\n2. Within fourteen days after the filing of a petition under clause (1), the Supreme Court shall hear and determine the petition and its decision shall be final.\n3. If the Supreme Court determines the election of the President-elect to be invalid, a fresh election shall be held within sixty days after the determination."
+        },
+        {
+          "number": "141",
+          "title": "Assumption of office of President",
+          "content": "1. The President-elect shall be sworn in on the first Tuesday following—\n  a. the fourteenth day after the date on which the Supreme Court renders a decision declaring the election valid, if any petition has been filed under Article 140; or\n  b. the seventh day following the date on which the Court renders a decision declaring the election to be valid.\n2. The President-elect assumes office by taking and subscribing the oath or affirmation of allegiance, and the oath of office, as prescribed in the Third Schedule."
+        },
+        {
+          "number": "142",
+          "title": "Term of office of President",
+          "content": "1. The President shall hold office for a term beginning on the date on which the President was sworn in, and ending when the person next elected President in accordance with Article 136 (2) (a) is sworn in.\n2. A person shall not hold office as President for more than two terms."
+        },
+        {
+          "number": "143",
+          "title": "Protection from legal proceedings",
+          "content": "1. Criminal proceedings shall not be instituted or continued in any court against the President, or a person performing the functions of that office, during their tenure of office.\n2. Civil proceedings shall not be instituted in any court against the President, or the person performing the functions of that office, during their tenure of office in respect of anything done or not done in the exercise of their powers under this Constitution.\n3. Where provision is made in law limiting the time within which proceedings of any description may be brought against any person, a period of time during which a person holds or performs the functions of the office of President shall not be taken into account in calculating any period of time prescribed by that law.\n4. The immunity of the President under this Article shall not extend to a crime for which the President may be prosecuted under any treaty to which Kenya is a party and which prohibits such immunity."
+        },
+        {
+          "number": "144",
+          "title": "Removal of President on grounds of incapacity",
+          "content": "1. A member of the National Assembly, supported by at least a quarter of all the members, may move a motion for the investigation of the President's physical or mental capacity to perform the functions of office.\n2. If a motion under clause (1) is supported by a majority of all the members of the National Assembly:\n  a. the Speaker shall inform the Chief Justice of that resolution within two days; and\n  b. the President shall continue to perform the functions of the office pending the outcome of the proceedings required by this Article.\n3. Within seven days after receiving notice of the resolution from the Speaker, the Chief Justice shall appoint a tribunal consisting of:\n  a. three persons who are qualified to practise medicine under the laws of Kenya, nominated by the body responsible for regulating the professional practice of medicine;\n  b. one advocate of the High Court nominated by the body responsible for regulating the professional practice of advocates; and\n  c. one person nominated by the President.\n4. If the Chief Justice is unable to appoint a tribunal under clause (3), the Deputy Chief Justice shall appoint such a tribunal.\n5. If the President is unable to nominate the person required under clause (3)(c), the person shall be nominated by:\n  a. a member of the family of the President; or\n  b. if no such member is willing or able, by a close relative of the President.\n6. The tribunal shall inquire into the matter and, within fourteen days after appointment, report to the Chief Justice and the Speaker of the National Assembly.\n7. The Speaker shall cause the report of the tribunal to be tabled before the National Assembly within seven days after receiving it.\n8. The report of the tribunal shall be final and not subject to appeal; if the tribunal reports that the President is capable of performing the functions of office, the Speaker shall so announce in the National Assembly.\n9. If the tribunal reports that the President is incapable of performing the functions of office, the National Assembly shall vote on whether to ratify the report.\n10. If a majority of all members vote in favour of ratifying the report, the President shall cease to hold office."
+        },
+        {
+          "number": "145",
+          "title": "Removal of President by impeachment",
+          "content": "1. A member of the National Assembly, supported by at least a third of all the members, may move a motion for the impeachment of the President:\n  a. on the ground of a gross violation of a provision of this Constitution or any other law;\n  b. where there are serious reasons for believing that the President has committed a crime under national or international law; or\n  c. for gross misconduct.\n2. If a motion under clause (1) is supported by at least two-thirds of all members of the National Assembly:\n  a. the Speaker shall inform the Speaker of the Senate of that resolution within two days; and\n  b. the President shall continue to perform the functions of office pending the outcome of proceedings required by this Article.\n3. Within seven days after receiving notice from the Speaker of the National Assembly:\n  a. the Speaker of the Senate shall convene a meeting of the Senate to hear charges against the President; and\n  b. the Senate may appoint a special committee of eleven members to investigate the matter.\n4. A special committee appointed under clause (3)(b) shall:\n  a. investigate the matter; and\n  b. report to the Senate within ten days whether the particulars of the allegations have been substantiated.\n5. The President shall have the right to appear and be represented before the special committee.\n6. If the special committee reports that:\n  a. the particulars have not been substantiated, no further proceedings shall be taken under this Article; or\n  b. the particulars have been substantiated, the Senate shall, after according the President an opportunity to be heard, vote on the impeachment charges.\n7. If at least two-thirds of all members of the Senate vote to uphold any impeachment charge, the President shall cease to hold office."
+        },
+        {
+          "number": "146",
+          "title": "Vacancy in the office of President",
+          "content": "1. The office of President shall become vacant if the holder:\n  a. dies;\n  b. resigns, in writing, addressed to the Speaker of the National Assembly; or\n  c. otherwise ceases to hold office under Article 144, 145 or any other provision of this Constitution.\n2. When a vacancy occurs:\n  a. the Deputy President shall assume office as President for the remainder of the term; or\n  b. if the Deputy President is unable or the office is vacant, the Speaker of the National Assembly shall act as President and an election shall be held within sixty days.\n3. A person who assumes the office under clause (2)(a) or after an election under clause (2)(b) shall hold office until a newly elected President is sworn in following the next regular election.\n4. If the Deputy President assumes office under clause (2)(a), or a person is elected under clause (2)(b), they shall be deemed:\n  a. to have served a full term if more than two and a half years remain before the next scheduled election; or\n  b. not to have served a term, in any other case."
+        },
+        {
+          "number": "147",
+          "title": "Functions of the Deputy President",
+          "content": "1. The Deputy President shall be the principal assistant of the President and shall deputise in the execution of functions.\n2. The Deputy President shall perform functions conferred by the Constitution and any other functions assigned by the President.\n3. Subject to Article 134, when the President is absent or incapacitated, the Deputy President shall act as President.\n4. The Deputy President shall not hold any other State or public office."
+        },
+        {
+          "number": "148",
+          "title": "Election and swearing in of Deputy President",
+          "content": "1. Each candidate in a presidential election shall nominate a qualified person as Deputy President.\n2. There shall be no separate nomination process for the Deputy President.\n3. The IEBC shall declare the candidate nominated by the elected President to be elected as Deputy President.\n4. The swearing in shall be before the Chief Justice or, in their absence, the Deputy Chief Justice, and in public.\n5. The Deputy President-elect assumes office by taking:\n  a. the oath or affirmation of allegiance; and\n  b. the oath or affirmation for the execution of functions, as prescribed.\n6. The term runs from swearing in and ends:\n  a. when the next President is sworn in;\n  b. on assuming the office of President; or\n  c. on resignation, death or removal.\n7. The Deputy President may resign by written notice to the President.\n8. A person shall not hold office as Deputy President for more than two terms."
+        },
+        {
+          "number": "149",
+          "title": "Vacancy in the office of Deputy President",
+          "content": "1. Within fourteen days of a vacancy, the President shall nominate a person to fill the vacancy, and the National Assembly shall vote within sixty days.\n2. A person assuming office under clause (1) shall be deemed:\n  a. to have served a full term if more than two and a half years remain before the next scheduled election; or\n  b. not to have served a term, in any other case."
+        },
+        {
+          "number": "150",
+          "title": "Removal of Deputy President",
+          "content": "1. The Deputy President may be removed:\n  a. on the ground of physical or mental incapacity; or\n  b. on impeachment:\n    i. for gross violation of the Constitution or any law;\n    ii. where there are serious reasons to believe the Deputy President has committed a crime under national or international law; or\n    iii. for gross misconduct.\n2. The provisions of Articles 144 and 145 on removal of the President apply, with modifications, to the Deputy President."
+        },
+        {
+          "number": "151",
+          "title": "Remuneration and benefits of President and Deputy President",
+          "content": "1. The remuneration and benefits payable to the President and Deputy President shall be a charge on the Consolidated Fund.\n2. Their remuneration, benefits and privileges shall not be varied to their disadvantage while in office.\n3. Retirement benefits, facilities and privileges of a former President or Deputy President shall not be varied to their disadvantage during their lifetime."
+        }
+          ]
+        }
+      ]
+  }
+
 
     ]
   }
