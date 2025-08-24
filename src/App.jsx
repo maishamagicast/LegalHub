@@ -1,110 +1,67 @@
-import { useState, useEffect } from 'react'
-import './App.css'
+// import React from "react";
+// import constitutionData from "./assets/constitution.json";
 
- 
+// const renderArticles = (articles) => {
+//   if (!articles) return null;
 
- function App() {
-  const [data, setData] = useState([]);
-  const [search, setSearch] = useState("");
-  const [selectedChapter, setSelectedChapter] = useState(null);
-  const [filteredChapters, setFilteredChapters] = useState([]);
+//   return articles.map((article) => (
+//     <div key={article.number} style={{ marginBottom: "1.5rem", paddingLeft: "20px" }}>
+//       <h4>
+//         Article {article.number}: {article.title}
+//       </h4>
+//       {article.content.split("\n").map((line, idx) => (
+//         <p key={idx} style={{ margin: "0.2rem 0" }}>
+//           {line}
+//         </p>
+//       ))}
+//     </div>
+//   ));
+// };
 
-  useEffect(() => {
-    fetch("src/assets/kenya_constitution_2010.json")
-      .then((res) => res.json())
-      .then(setData)
-      .catch(console.error);
-  }, []);
+// const renderNode = (node, level = 0) => {
+//   const indent = { marginLeft: `${level * 20}px` };
 
-  useEffect(() => {
-    if (!search) {
-      setFilteredChapters(data);
-      return;
-    }
-    const query = search.toLowerCase();
-    const filtered = data
-      .map((ch) => ({
-        ...ch,
-        articles: ch.articles.filter(
-          (art) =>
-            art.title.toLowerCase().includes(query) ||
-            art.content.toLowerCase().includes(query)
-        )
-      }))
-      .filter((ch) => ch.articles.length);
-    setFilteredChapters(filtered);
-  }, [search, data]);
+//   return (
+//     <div style={indent}>
+//       {node.chapter && <h2>{node.chapter}</h2>}
+//       {node.title && <h3>{node.title}</h3>}
+//       {node.articles && renderArticles(node.articles)}
 
+//       {(node.parts || []).map((part, idx) => (
+//         <div key={part.part || idx} style={{ marginLeft: "20px" }}>
+//           {part.part && <h4>{part.part}</h4>}
+//           {part.articles && renderArticles(part.articles)}
+//           {(part.parts || []).map((p, i) => renderNode(p, level + 1))}
+//           {(part.sections || []).map((s, i) => renderNode(s, level + 1))}
+//         </div>
+//       ))}
+
+//       {(node.sections || []).map((section, idx) => (
+//         <div key={idx}>{renderNode(section, level + 1)}</div>
+//       ))}
+//     </div>
+//   );
+// };
+
+// const App = () => {
+//   console.log("Constitution data loaded:", constitutionData); // debug log
+//   return <div>{(constitutionData || []).map((chapter, idx) => renderNode(chapter))}</div>;
+// };
+
+// export default App;
+
+import { BrowserRouter as Router } from "react-router-dom";
+import Layout from "./components/Layout";
+import AppRoutes from "./routes/Routes";
+
+const App = () => {
   return (
-    <main style={{ maxWidth: "900px", margin: "0 auto", padding: "1rem" }}>
-      <h1 style={{ textAlign: "center" }}>Kenya Constitution Viewer (2010)</h1>
-
-      {!selectedChapter && (
-        <>
-          <input
-            type="text"
-            placeholder="Search article titles or content..."
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-            style={{ width: "100%", padding: "0.5rem", marginBottom: "1rem" }}
-          />
-          {filteredChapters.map((chapter, idx) => (
-            <section key={idx} style={{ marginBottom: "1rem" }}>
-              <h2>
-                <button
-                  onClick={() => setSelectedChapter(chapter)}
-                  style={{
-                    fontSize: "1.2rem",
-                    color: "#2c3e50",
-                    background: "none",
-                    border: "none",
-                    cursor: "pointer",
-                    textAlign: "left",
-                  }}
-                >
-                  {chapter.chapter}: {chapter.title}
-                </button>
-              </h2>
-            </section>
-          ))}
-        </>
-      )}
-
-      {selectedChapter && (
-        <section>
-          <button
-            onClick={() => setSelectedChapter(null)}
-            style={{
-              marginBottom: "1rem",
-              background: "#eee",
-              border: "1px solid #ccc",
-              padding: "0.5rem",
-              cursor: "pointer",
-            }}
-          >
-            ← Back to Chapters
-          </button>
-          <h2>
-            {selectedChapter.chapter}: {selectedChapter.title}
-          </h2>
-          {selectedChapter.articles.map((article, i) => (
-            <div
-              key={i}
-              style={{ marginTop: "1rem", paddingLeft: "1rem" }}
-            >
-              <h3>
-                {article.number}. {article.title}
-              </h3>
-              <p style={{ whiteSpace: "pre-wrap" }}>
-                {article.content.trim()}
-              </p>
-            </div>
-          ))}
-        </section>
-      )}
-    </main>
+    <Router>
+      <Layout>
+        <AppRoutes />
+      </Layout>
+    </Router>
   );
-}
+};
 
-
-export default App
+export default App;
