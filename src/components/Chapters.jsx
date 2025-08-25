@@ -19,33 +19,37 @@ const renderArticles = (articles) => {
 };
 
 const renderNode = (node, level = 0) => {
+  if (!node) return null;
   const indent = { marginLeft: `${level * 20}px` };
 
   return (
     <div style={indent}>
+      {/* Headings */}
       {node.chapter && <h2>{node.chapter}</h2>}
+      {node.part && <h3>{node.part}</h3>}
+      {node.section && <h4>{node.section}</h4>}
       {node.title && <h3>{node.title}</h3>}
-      {node.articles && renderArticles(node.articles)}
 
-      {(node.parts || []).map((part, idx) => (
-        <div key={part.part || idx} style={{ marginLeft: "20px" }}>
-          {part.part && <h4>{part.part}</h4>}
-          {part.articles && renderArticles(part.articles)}
-          {(part.parts || []).map((p, i) => renderNode(p, level + 1))}
-          {(part.sections || []).map((s, i) => renderNode(s, level + 1))}
-        </div>
+      {/* Articles */}
+      {renderArticles(node.articles)}
+
+      {/* Recursive rendering for nested structures */}
+      {(node.parts || []).map((child, idx) => (
+        <div key={`part-${idx}`}>{renderNode(child, level + 1)}</div>
       ))}
-
-      {(node.sections || []).map((section, idx) => (
-        <div key={idx}>{renderNode(section, level + 1)}</div>
+      {(node.sections || []).map((child, idx) => (
+        <div key={`section-${idx}`}>{renderNode(child, level + 1)}</div>
+      ))}
+      {(node.subsections || []).map((child, idx) => (
+        <div key={`subsection-${idx}`}>{renderNode(child, level + 1)}</div>
       ))}
     </div>
   );
 };
 
 const Chapter = () => {
-  const { chapterId } = useParams();   // get the chapterId from URL
-  const chapter = constitutionData[chapterId]; // pick the specific chapter
+  const { chapterId } = useParams();
+  const chapter = constitutionData[chapterId];
 
   if (!chapter) {
     return <h2>Chapter not found</h2>;
@@ -55,3 +59,4 @@ const Chapter = () => {
 };
 
 export default Chapter;
+
