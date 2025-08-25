@@ -764,9 +764,292 @@
           "number": "151",
           "title": "Remuneration and benefits of President and Deputy President",
           "content": "1. The remuneration and benefits payable to the President and Deputy President shall be a charge on the Consolidated Fund.\n2. Their remuneration, benefits and privileges shall not be varied to their disadvantage while in office.\n3. Retirement benefits, facilities and privileges of a former President or Deputy President shall not be varied to their disadvantage during their lifetime."
-        }
+     }
+                ]
+            }
+        ]
+    },
+        {
+        "chapter": "Chapter 10",
+        "title": "JUDICIARY",
+        "parts": [
+            {
+                "part": "Part 1. Structure and Jurisdiction of the Courts",
+                "articles": [
+                    {
+                        "number": "159",
+                        "title": "Judicial authority",
+                        "content": "1. Judicial authority is derived from the people and vests in, and shall be exercised by, the courts and tribunals established by or under this Constitution.\n2. In exercising judicial authority, the courts and tribunals shall be guided by the following principles—\n   a. justice shall be done to all, irrespective of status;\n   b. justice shall not be delayed;\n   c. alternative forms of dispute resolution including reconciliation, mediation, arbitration and traditional dispute resolution mechanisms shall be promoted, subject to clause (3);\n   d. justice shall be administered without undue regard to procedural technicalities; and\n   e. the purposes and principles of this Constitution shall be protected and promoted.\n3. Traditional dispute resolution mechanisms shall not be used in a way that—\n   a. contravenes the Bill of Rights;\n   b. is repugnant to justice and morality or results in outcomes that are repugnant to justice or morality; or\n   c. is inconsistent with this Constitution or any written law."
+                    },
+                    {
+                        "number": "160",
+                        "title": "Independence of the Judiciary",
+                        "content": "1. In the exercise of judicial authority, the Judiciary, as constituted by Article 161, shall be subject only to this Constitution and the law and shall not be subject to the control or direction of any person or authority.\n2. The office of a judge of a superior court shall not be abolished while there is a substantive holder of the office.\n3. The remuneration and benefits payable to the judges of the superior courts shall be a charge on the Consolidated Fund.\n4. The remuneration and benefits payable to the judges of the superior courts shall not be varied to their disadvantage.\n5. The administrative expenses of the Judiciary, including all salaries, allowances, gratuities and pensions payable to or in respect of persons serving in the Judiciary, shall be a charge on the Consolidated Fund.\n6. The Judiciary shall fund its institutions, including the Judicial Service Commission, and shall manage its own budget."
+                    },
+                    {
+                        "number": "161",
+                        "title": "Judiciary",
+                        "content": "1. The Judiciary consists of the judges of the superior courts, magistrates, other judicial officers and staff.\n2. The Judiciary shall consist of the—\n   a. Supreme Court;\n   b. Court of Appeal;\n   c. High Court;\n   d. courts of the status of the High Court;\n   e. Magistrates courts; and\n   f. other courts or tribunals as may be established by an Act of Parliament."
+                    },
+                    {
+                        "number": "162",
+                        "title": "Superior courts",
+                        "content": "1. The superior courts are the Supreme Court, the Court of Appeal, the High Court and the courts of the status of the High Court.\n2. Parliament shall establish courts with the status of the High Court to hear and determine disputes relating to—\n   a. employment and labour relations; and\n   b. the environment and the use and occupation of, and title to, land.\n3. Parliament shall determine the jurisdiction and functions of the courts contemplated in clause (2)."
+                    },
+                    {
+                        "number": "163",
+                        "title": "Supreme Court",
+                        "content": "1. The Supreme Court shall consist of—\n   a. the Chief Justice, who shall be the president of the court;\n   b. the Deputy Chief Justice, who shall—\n      i. deputise for the Chief Justice; and\n      ii. be the vice-president of the court; and\n   c. five other judges.\n2. The Supreme Court shall be properly constituted for the purposes of its proceedings if it is composed of five judges.\n3. The Supreme Court shall have—\n   a. exclusive original jurisdiction to hear and determine disputes relating to the elections to the office of President arising under Article 140; and\n   b. appellate jurisdiction to hear and determine appeals from—\n      i. the Court of Appeal; and\n      ii. any other court or tribunal as prescribed by national legislation.\n4. Appeals to the Supreme Court shall be heard only with the leave of the court.\n5. The Supreme Court may give an advisory opinion at the request of the national government, any State organ, or any county government with respect to any matter concerning county government.\n6. All courts, other than the Supreme Court, are bound by the decisions of the Supreme Court.\n7. The Supreme Court shall make rules for the exercise of its jurisdiction."
+                    },
+                    {
+                        "number": "164",
+                        "title": "Court of Appeal",
+                        "content": "1. The Court of Appeal shall consist of—\n   a. not fewer than twelve judges; and\n   b. a president of the Court of Appeal elected by the judges of the Court of Appeal from among themselves.\n2. The Court of Appeal has jurisdiction to hear appeals from—\n   a. the High Court; and\n   b. any other court or tribunal as prescribed by an Act of Parliament."
+                    },
+                    {
+                        "number": "165",
+                        "title": "High Court",
+                        "content": "1. There is established the High Court, which shall consist of—\n   a. the number of judges prescribed by an Act of Parliament; and\n   b. the Principal Judge of the High Court, who shall be elected by the judges of the High Court from among themselves.\n2. The High Court has unlimited original jurisdiction in criminal and civil matters.\n3. The High Court has jurisdiction to determine the question whether a right or fundamental freedom in the Bill of Rights has been denied, violated, infringed or threatened.\n4. The High Court has jurisdiction to hear an appeal from a decision of a tribunal appointed under this Constitution to consider the removal of a person from office, other than a tribunal appointed under Article 144.\n5. The High Court has jurisdiction to hear any question respecting the interpretation of this Constitution including the determination of—\n   a. the question whether any law is inconsistent with or in contravention of this Constitution;\n   b. the question whether anything said to be done under the authority of this Constitution or of any law is inconsistent with, or in contravention of, this Constitution;\n   c. any matter relating to constitutional powers of State organs in respect of county governments and any matter relating to the constitutional relationship between the levels of government; and\n   d. a question relating to conflict of laws under Article 191.\n6. The High Court has supervisory jurisdiction over the subordinate courts and over any person, body or authority exercising a judicial or quasi-judicial function, but not over a superior court.\n7. For the purposes of clause (6), the High Court may call for the record of any proceedings before any subordinate court or person, body or authority referred to in clause (6), and may make any order or give any direction it considers appropriate to ensure the fair administration of justice.\n8. The High Court has jurisdiction to hear any criminal case where the accused is charged with an offence that carries the death penalty.\n9. The High Court has any other jurisdiction, original or appellate, conferred on it by legislation."
+                    },
+                    {
+                        "number": "166",
+                        "title": "Appointment of Chief Justice, Deputy Chief Justice and other judges",
+                        "content": "1. The President shall appoint—\n   a. the Chief Justice and the Deputy Chief Justice, in accordance with the recommendation of the Judicial Service Commission, and subject to the approval of the National Assembly; and\n   b. all other judges, in accordance with the recommendation of the Judicial Service Commission.\n2. Each judge of a superior court shall be appointed from among persons who—\n   a. hold a law degree from a recognised university, or are advocates of the High Court of Kenya, or possess an equivalent qualification in a common-law jurisdiction;\n   b. possess the experience required under clause (3); and\n   c. have a high moral character, integrity and impartiality.\n3. The Chief Justice and other judges of the Supreme Court shall be appointed from among persons who have at least fifteen years' experience as a superior court judge or a distinguished academic, judicial officer, legal practitioner or such experience in other relevant legal field.\n4. The judges of the Court of Appeal shall be appointed from among persons who have at least ten years' experience as a superior court judge, or at least ten years' experience as a distinguished academic or legal practitioner, or such experience in other relevant legal field.\n5. The judges of the High Court shall be appointed from among persons who have at least ten years' experience as a superior court judge, or at least ten years' experience as a distinguished academic or legal practitioner, or such experience in other relevant legal field.\n6. The Judicial Service Commission may recommend a person for appointment as a judge of a superior court only if the person—\n   a. has been an advocate of the High Court for at least ten years; or\n   b. has held a judicial office for at least ten years; or\n   c. has relevant professional or academic experience for at least ten years.\n7. In appointing judges, the Judicial Service Commission shall have regard to—\n   a. the need to ensure that the composition of the Judiciary reflects the regional and ethnic diversity of the people of Kenya; and\n   b. the principle of gender equity."
+                    },
+                    {
+                        "number": "167",
+                        "title": "Tenure of office of the Chief Justice and other judges",
+                        "content": "1. A judge of a superior court shall hold office until the judge—\n   a. attains the age of seventy years, but may elect to retire at any time after attaining the age of sixty-five years; or\n   b. is removed from office in accordance with Article 168.\n2. The Chief Justice shall hold office for a maximum of ten years or until retiring under clause (1), whichever is the earlier.\n3. If the Chief Justice's term expires before the Chief Justice attains the age of seventy years, the Chief Justice may continue to serve as a judge of the Supreme Court.\n4. The Deputy Chief Justice shall serve as such until—\n   a. the Deputy Chief Justice is appointed Chief Justice;\n   b. the Deputy Chief Justice retires from office in accordance with clause (1); or\n   c. the Deputy Chief Justice is removed from office in accordance with Article 168.\n5. If the Deputy Chief Justice's term as Deputy Chief Justice expires, the Deputy Chief Justice may continue to serve as a judge of the Supreme Court."
+                    },
+                    {
+                        "number": "168",
+                        "title": "Removal from office",
+                        "content": "1. A judge of a superior court may be removed from office only on the grounds of—\n   a. inability to perform the functions of office arising from mental or physical incapacity;\n   b. a breach of a code of conduct prescribed for judges of the superior courts by an Act of Parliament;\n   c. bankruptcy;\n   d. incompetence; or\n   e. gross misconduct or misbehaviour.\n2. The removal of a judge may be initiated only by the Judicial Service Commission acting on its own motion, or on the petition of any person to the Commission.\n3. A petition for the removal of a judge shall be in writing, setting out the alleged facts constituting the grounds for removal.\n4. The Judicial Service Commission shall consider the petition and, if it is satisfied that the petition discloses a ground for removal under clause (1), shall—\n   a. refer the matter to a tribunal appointed under clause (5); and\n   b. suspend the judge from office pending the outcome of the tribunal's inquiry.\n5. The President shall, within fourteen days after receiving a recommendation from the Judicial Service Commission, appoint a tribunal consisting of—\n   a. a chairperson, who shall be a person who holds or has held office as a judge of a superior court, or a person qualified to be appointed as such;\n   b. two advocates of at least fifteen years' standing; and\n   c. two other persons with experience in public affairs.\n6. The tribunal shall inquire into the matter, report on the facts and make a recommendation to the Judicial Service Commission.\n7. The judge concerned has the right to appear and be represented before the tribunal.\n8. The Judicial Service Commission shall consider the tribunal's report and, if it is satisfied that the judge ought to be removed, shall recommend to the President the removal of the judge.\n9. The President shall, within fourteen days after receiving the recommendation, remove the judge from office.\n10. The proceedings of the tribunal shall be in public."
+                    }
+                ]
+            },
+            {
+                "part": "Part 2. Judicial Service Commission",
+                "articles": [
+                    {
+                        "number": "171",
+                        "title": "Establishment of the Judicial Service Commission",
+                        "content": "1. There is established the Judicial Service Commission.\n2. The Commission shall consist of—\n   a. the Chief Justice, who shall be the chairperson of the Commission;\n   b. one Supreme Court judge elected by the judges of the Supreme Court;\n   c. one Court of Appeal judge elected by the judges of the Court of Appeal;\n   d. one High Court judge and one magistrate, one a woman and one a man, elected by the members of the association of judges and magistrates;\n   e. the Attorney-General;\n   f. two advocates, one a woman and one a man, each of whom has at least fifteen years' experience, elected by the members of the statutory body responsible for the professional regulation of advocates;\n   g. one person nominated by the Public Service Commission; and\n   h. one woman and one man to represent the public, not being lawyers, appointed by the President with the approval of the National Assembly.\n3. The Chief Registrar of the Judiciary shall be the secretary to the Commission.\n4. The members of the Commission, other than the ex officio members, shall hold office for a term of five years and shall be eligible to be appointed for one further term of five years.\n5. The Commission may act notwithstanding a vacancy in its membership.\n6. The Commission shall conduct its affairs in a transparent manner and shall hold its proceedings in public, but may exclude the public from its proceedings for good cause."
+                    },
+                    {
+                        "number": "172",
+                        "title": "Functions of the Judicial Service Commission",
+                        "content": "1. The Judicial Service Commission shall promote and facilitate the independence and accountability of the judiciary and the efficient, effective and transparent administration of justice.\n2. The Commission shall have the following functions—\n   a. to recommend to the President persons for appointment as judges;\n   b. to review and make recommendations on the conditions of service of judges and judicial officers, other than their remuneration and the staff of the Judiciary;\n   c. to appoint, receive complaints against, investigate and remove from office or otherwise discipline registrars, magistrates, other judicial officers and other staff of the Judiciary, in the manner prescribed by an Act of Parliament;\n   d. to prepare and implement programmes for the continuing education and training of judges and judicial officers; and\n   e. to advise the national government on improving the efficiency of the administration of justice.\n3. In the performance of its functions, the Commission shall be guided by the following—\n   a. competitiveness and transparent processes of appointment of judicial officers and other staff of the judiciary; and\n   b. the promotion of gender equality."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chapter": "Chapter 11",
+        "title": "DEVOLVED GOVERNMENT",
+        "parts": [
+            {
+                "part": "Part 1. Objects and Principles of Devolved Government",
+                "articles": [
+                    {
+                        "number": "174",
+                        "title": "Objects of devolution",
+                        "content": "The objects of the devolution of government are—\n   a. to promote democratic and accountable exercise of power;\n   b. to foster national unity by recognising diversity;\n   c. to give powers of self-governance to the people and enhance the participation of the people in the exercise of the powers of the State and in making decisions affecting them;\n   d. to recognise the right of communities to manage their own affairs and to further their development;\n   e. to protect and promote the interests and rights of minorities and marginalised communities;\n   f. to promote social and economic development and the provision of proximate, easily accessible services throughout Kenya;\n   g. to ensure equitable sharing of national and local resources throughout Kenya;\n   h. to facilitate the decentralisation of State organs, their functions and services, from the capital of Kenya; and\n   i. to enhance checks and balances and the separation of powers."
+                    },
+                    {
+                        "number": "175",
+                        "title": "Principles of devolved government",
+                        "content": "County governments established under this Constitution shall reflect the following principles—\n   a. county governments shall be based on democratic principles and the separation of powers;\n   b. county governments shall have reliable sources of revenue to enable them to govern and deliver services effectively; and\n   c. no more than two-thirds of the members of representative bodies in each county government shall be of the same gender."
+                    }
+                ]
+            },
+            {
+                "part": "Part 2. County Governments",
+                "articles": [
+                    {
+                        "number": "176",
+                        "title": "County governments",
+                        "content": "1. There is established a county government for each county, consisting of—\n   a. a county assembly; and\n   b. a county executive.\n2. Every county government shall decentralise its functions and the provision of its services to the extent that it is efficient and practicable to do so."
+                    },
+                    {
+                        "number": "177",
+                        "title": "Membership of county assembly",
+                        "content": "1. A county assembly consists of—\n   a. members elected by the registered voters of the wards in a general election;\n   b. the number of special seat members necessary to ensure that no more than two-thirds of the membership of the assembly are of the same gender;\n   c. the number of members of marginalised groups, including persons with disabilities and the youth, prescribed by an Act of Parliament; and\n   d. the Speaker, who is an ex officio member.\n2. The members contemplated in clause (1)(b) and (c) shall, in each case, be nominated by political parties in proportion to the seats received in the election under clause (1)(a).\n3. The filling of special seats under clause (1)(b) shall be determined after declaration of elected members from each ward.\n4. A county assembly is elected for a term of five years."
+                    },
+                    {
+                        "number": "178",
+                        "title": "Speaker of a county assembly",
+                        "content": "1. Each county assembly shall have a speaker elected by the county assembly from among persons who are not members of the assembly.\n2. The speaker of a county assembly shall preside at meetings of the assembly.\n3. The speaker of a county assembly shall vacate office—\n   a. when the assembly first meets after a general election; or\n   b. if the assembly by resolution supported by the votes of not less than two-thirds of its members resolves to remove the speaker."
+                    },
+                    {
+                        "number": "179",
+                        "title": "County executive committees",
+                        "content": "1. The executive authority of the county is vested in, and exercised by, a county executive committee.\n2. The county executive committee consists of—\n   a. the county governor and the deputy county governor; and\n   b. members appointed by the county governor, with the approval of the assembly, from among persons who are not members of the assembly.\n3. The number of members appointed under clause (2)(b) shall not exceed—\n   a. one-third of the number of members of the county assembly, if the assembly has less than thirty members; or\n   b. ten, if the assembly has thirty or more members.\n4. The county governor and the deputy county governor are the chief executive and deputy chief executive of the county, respectively.\n5. When the county governor is absent, the deputy county governor shall act as the county governor.\n6. Members of a county executive committee are accountable to the county governor for the performance of their functions and exercise of their powers."
+                    },
+                    {
+                        "number": "180",
+                        "title": "Election of county governor and deputy county governor",
+                        "content": "1. The county governor shall be directly elected by the voters registered in the county.\n2. A candidate for election as county governor shall be nominated by a political party, or may contest as an independent candidate.\n3. Each candidate for election as county governor shall nominate a person who is qualified for nomination for election as county governor as a candidate for deputy county governor.\n4. The Independent Electoral and Boundaries Commission shall not conduct a separate election for the deputy county governor but shall declare the candidate nominated by the person who is elected county governor to be elected as the deputy county governor.\n5. A person shall not hold office as a county governor for more than two terms."
+                    },
+                    {
+                        "number": "181",
+                        "title": "Removal of a county governor",
+                        "content": "1. A county governor may be removed from office on the grounds of—\n   a. gross violation of this Constitution or any other law;\n   b. where there are serious reasons for believing that the county governor has committed a crime under national or international law;\n   c. abuse of office or gross misconduct; or\n   d. physical or mental incapacity to perform the functions of office of county governor.\n2. Parliament shall enact legislation providing for the procedure for removal of a county governor."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chapter": "Chapter 12",
+        "title": "PUBLIC FINANCE",
+        "parts": [
+            {
+                "part": "Part 1. Principles and Framework of Public Finance",
+                "articles": [
+                    {
+                        "number": "201",
+                        "title": "Principles of public finance",
+                        "content": "The following principles shall guide all aspects of public finance in the Republic—\n   a. there shall be openness and accountability, including public participation in financial matters;\n   b. the public finance system shall promote an equitable society, and in particular—\n      i. the burden of taxation shall be shared fairly;\n      ii. revenue raised nationally shall be shared equitably among the national and county governments; and\n      iii. expenditure shall promote the equitable development of the country, including by making special provision for marginalised groups and areas;\n   c. the burdens and benefits of the use of resources and public borrowing shall be shared equitably between present and future generations;\n   d. public money shall be used in a prudent and responsible way; and\n   e. financial management shall be responsible, and fiscal reporting shall be clear."
+                    },
+                    {
+                        "number": "202",
+                        "title": "Equitable sharing of national revenue",
+                        "content": "1. Revenue raised nationally shall be shared equitably among the national and county governments.\n2. The equitable share of the revenue raised nationally that is allocated to county governments shall be not less than fifteen per cent of all revenue collected by the national government.\n3. The amount referred to in clause (2) shall be calculated on the basis of the most recent audited accounts of revenue received, as approved by the National Assembly."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chapter": "Chapter 13",
+        "title": "THE PUBLIC SERVICE",
+        "parts": [
+            {
+                "part": "Part 1. Values and Principles of Public Service",
+                "articles": [
+                    {
+                        "number": "232",
+                        "title": "Values and principles of public service",
+                        "content": "1. The values and principles of public service include—\n   a. high standards of professional ethics;\n   b. efficient, effective and economic use of resources;\n   c. responsive, prompt, effective, impartial and equitable provision of services;\n   d. involvement of the people in the process of policy making;\n   e. accountability for administrative acts;\n   f. transparency and provision to the public of timely, accurate information;\n   g. subject to paragraphs (h) and (i), fair competition and merit as the basis of appointments and promotions;\n   h. representation of Kenya's diverse communities; and\n   i. affording adequate and equal opportunities for appointment, training and advancement, at all levels of the public service, of—\n      i. men and women;\n      ii. the members of all ethnic groups; and\n      iii. persons with disabilities.\n2. The values and principles of public service apply to public service in—\n   a. all State organs in both levels of government; and\n   b. all State corporations."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chapter": "Chapter 14",
+        "title": "NATIONAL SECURITY",
+        "parts": [
+            {
+                "part": "Part 1. National Security Organs",
+                "articles": [
+                    {
+                        "number": "238",
+                        "title": "Principles of national security",
+                        "content": "1. National security is the protection against internal and external threats to Kenya's territorial integrity and sovereignty, its people, their rights, freedoms, property, peace, stability and prosperity, and other national interests.\n2. The national security of Kenya shall be promoted and guaranteed in accordance with the following principles—\n   a. national security is subject to the authority of this Constitution and Parliament;\n   b. national security shall be pursued in compliance with the law and with the utmost respect for the rule of law, democracy, human rights and fundamental freedoms;\n   c. in performing their functions and exercising their powers, national security organs shall respect the diverse culture of the communities within Kenya; and\n   d. recruitment by the national security organs shall reflect the diversity of the Kenyan people in equitable proportions."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chapter": "Chapter 15",
+        "title": "COMMISSIONS AND INDEPENDENT OFFICES",
+        "parts": [
+            {
+                "part": "Part 1. Objects, Authority and Funding",
+                "articles": [
+                    {
+                        "number": "248",
+                        "title": "Application of Chapter",
+                        "content": "This Chapter applies to the commissions and independent offices specified in this Constitution and established by an Act of Parliament."
+                    },
+                    {
+                        "number": "249",
+                        "title": "Objects, authority and funding",
+                        "content": "1. The objects of the commissions and the independent offices are to—\n   a. protect the sovereignty of the people;\n   b. secure the observance by all State organs of democratic values and principles; and\n   c. promote constitutionalism.\n2. The commissions and the holders of independent offices—\n   a. are subject only to this Constitution and the law; and\n   b. are independent and not subject to direction or control by any person or authority.\n3. Parliament shall allocate adequate funds to enable each commission and independent office to perform its functions and the budget of each commission and independent office shall be a separate vote."
+                      }
           ]
         }
       ]
+  }, {
+    "chapter": "Chapter 16",
+    "title": "AMENDMENT OF THIS CONSTITUTION",
+    "parts": [
+      {
+        "part": "—",
+        "articles": [
+          {
+            "number": "255",
+            "title": "Amendment of this Constitution",
+            "content": "1. A proposed amendment to this Constitution shall be enacted in accordance with Article 256 or 257, and approved in accordance with clause (2) by a referendum, if the amendment relates to any of the following matters—\n   a. the supremacy of this Constitution;\n   b. the territory of Kenya;\n   c. the sovereignty of the people;\n   d. the national values and principles of governance referred to in Article 10(2)(a) to (d);\n   e. the Bill of Rights;\n   f. the term of office of the President;\n   g. the independence of the Judiciary and the commissions and independent offices to which Chapter Fifteen applies;\n   h. the functions of Parliament;\n   i. the objects, principles and structure of devolved government; or\n   j. the provisions of this Chapter.\n2. A proposed amendment shall be approved by a referendum under clause (1) if—\n   a. at least twenty per cent of the registered voters in each of at least half of the counties vote in the referendum; and\n   b. the amendment is supported by a simple majority of the citizens voting in the referendum.\n3. An amendment to this Constitution that does not relate to a matter specified in clause (1) shall be enacted either—\n   a. by Parliament, in accordance with Article 256; or\n   b. by the people and Parliament, in accordance with Article 257."
+          },
+          {
+            "number": "260",
+            "title": "Interpretation",
+            "content": "In this Constitution, unless the context requires otherwise—\"adult\" means an individual who has attained the age of eighteen years; \"affirmative action\" includes any measure designed to overcome or ameliorate an inequity or the systemic denial or infringement of a right or fundamental freedom; \"child\" means an individual who has not attained the age of eighteen years; \"contravene\" includes fail to comply with; \"county legislation\" means a law made by a county government or under authority conferred by a county Assembly; \"disability\" includes any physical, sensory, mental, psychological or other impairment, condition or illness that has, or is perceived by significant sectors of the community to have, a substantial or long‑term effect on an individual’s ability to carry out ordinary day‑to‑day activities; \"document\" includes—\n   a. any publication, or any matter written, expressed, or inscribed on any substance by means of letters, figures or marks, or by more than one of those means, that is intended to be used or may be used for the purpose of recording that matter; and\n   b. electronic files; \"effective date\" means the date that this Constitution came into force; \"fail\" includes refuse; \"financial year\" means the period of twelve months ending on the thirtieth day of June or other day prescribed by national legislation, but the initial financial year of any entity is the period of time from its coming into existence until the immediately following thirtieth day of June, or other day prescribed by national legislation; \"Gazette\" means the Kenya Gazette published by authority of the national government, or a supplement to the Kenya Gazette; ... [and so forth with other defined terms]"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Chapter 17",
+    "title": "GENERAL PROVISIONS",
+    "parts": [
+      {
+        "part": "—",
+        "articles": [
+          {
+            "number": "258",
+            "title": "Enforcement of this Constitution",
+            "content": "1. Every person has the right to institute court proceedings, claiming that this Constitution has been contravened, or is threatened with contravention.\n2. In addition to a person acting in their own interest, court proceedings under clause (1) may be instituted by—\n   a. a person acting on behalf of another person who cannot act in their own name;\n   b. a person acting as a member of, or in the interest of, a group or class of persons;\n   c. a person acting in the public interest; or\n   d. an association acting in the interest of one or more of its members."
+          },
+          {
+            "number": "259",
+            "title": "Construing this Constitution",
+            "content": "1. This Constitution shall be interpreted in a manner that—\n   a. promotes its purposes, values and principles;\n   b. advances the rule of law, and the human rights and fundamental freedoms in the Bill of Rights;\n   c. permits the development of the law; and\n   d. contributes to good governance.\n2. If there is a conflict between different language versions of this Constitution, the English language version prevails."
+          },
+          {
+            "number": "260",
+            "title": "Interpretation",
+            "content": "—duplicate Article as appears in Chapter Sixteen for interpretation sections defining terms—is numbered similarly, though contextually serves both chapters." 
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Chapter 18",
+    "title": "TRANSITIONAL AND CONSEQUENTIAL PROVISIONS",
+    "parts": [
+      {
+        "part": "—",
+        "articles": [
+          {
+            "number": "261",
+            "title": "Consequential legislation",
+            "content": "1. Parliament shall enact any legislation required by this Constitution to be enacted to govern a particular matter within the period specified in the Fifth Schedule, commencing on the effective date.\n2. Despite clause (1), the National Assembly may, by resolution supported by the votes of at least two-thirds of all the members of the National Assembly, extend the period prescribed in respect of any particular matter under clause (1), by a period not exceeding one year.\n3. The power of the National Assembly contemplated under clause (2), may be exercised—\n   a. only once in respect of any particular matter; and\n   b. only in exceptional circumstances to be certified by the Speaker of the National Assembly.\n4. For the purposes of clause (1), the Attorney-General, in consultation with the Commission for the Implementation of the Constitution, shall prepare the relevant Bills for tabling before Parliament, as soon as reasonably practicable, to enable Parliament to enact the legislation within the period specified.\n5. If Parliament fails to enact any particular legislation within the specified time, any person may petition the High Court on the matter.\n6. The High Court in determining a petition under clause (5) may—\n   a. make a declaratory order on the matter; and\n   b. transmit an order directing Parliament and the Attorney-General to take steps to ensure that the required legislation is enacted, within the period specified in the order, and to report the progress to the Chief Justice.\n7. If Parliament fails to enact legislation in accordance with an order under clause (6)(b), the Chief Justice shall advise the President to dissolve Parliament and the President shall dissolve Parliament.\n8. If Parliament has been dissolved under clause (7), the new Parliament shall enact the required legislation within the periods specified in the Fifth Schedule beginning with the date of commencement of the term of the new Parliament.\n9. If the new Parliament fails to enact legislation in accordance with clause (8), the provisions of clauses (1) to (8) shall apply afresh."
+          },
+          {
+            "number": "262",
+            "title": "Transitional and consequential provisions",
+            "content": "The transitional and consequential provisions set out in the Sixth Schedule shall take effect on the effective date."
+          },
+          {
+            "number": "263",
+            "title": "Effective Date",
+            "content": "This Constitution shall come into force on its promulgation by the President or on the expiry of a period of fourteen days from the date of the publication in the Gazette of the final result of the referendum ratifying this Constitution, whichever is the earlier."
+          },
+          {
+            "number": "264",
+            "title": "Repeal of previous Constitution",
+            "content": "Subject to the Sixth Schedule, for the avoidance of doubt, the Constitution in force immediately before the effective date shall stand repealed on the effective date."
+          }
+        ]
+      }
+    ]
   }
 ]
