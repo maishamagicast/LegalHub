@@ -871,7 +871,7 @@
   "title": "Judiciary",
   "parts": [
     {
-      "part": 1,
+      "part": " Part 1. Judicial Authority and Legal System",
       "title": "Judicial Authority and Legal System",
       "articles": [
         {
@@ -897,7 +897,7 @@
       ]
     },
     {
-      "part": 2,
+      "part": "Part 2. Superior Courts",
       "title": "Superior Courts",
       "articles": [
         {
@@ -971,7 +971,7 @@
   }
   ,
   {
-  "chapter": "CHAPTER 11. DEVOLVED GOVERNMENT",
+  "chapter": "Chapter 11",
   "parts": [
     {
       "part": "Part 1. Objects and Principles of Devolved Government",
@@ -1146,7 +1146,445 @@
 }
 
     ]
-  }
+  },
+  {
+    "chapter": "Chapter 12. Public Finance",
+  "parts": [
+    {
+      "part": "Part 1. Principles and Framework of Public Finance",
+      "articles": [
+        {
+          "number": 201,
+          "title": "Principles of public finance",
+          "content": "The following principles shall guide all aspects of public finance in the Republic—\na. there shall be openness and accountability, including public participation in financial matters;\nb. the public finance system shall promote an equitable society, and in particular—\n   i. the burden of taxation shall be shared fairly;\n   ii. revenue raised nationally shall be shared equitably among national and county governments; and\n   iii. expenditure shall promote the equitable development of the country, including by making special provision for marginalised groups and areas;\nc. the burdens and benefits of the use of resources and public borrowing shall be shared equitably between present and future generations;\nd. public money shall be used in a prudent and responsible way; and\ne. financial management shall be responsible, and fiscal reporting shall be clear."
+        },
+        {
+          "number": 202,
+          "title": "Equitable sharing of national revenue",
+          "content": "1. Revenue raised nationally shall be shared equitably among the national and county governments.\n2. County governments may be given additional allocations from the national government's share of the revenue, either conditionally or unconditionally."
+        },
+        {
+          "number": 203,
+          "title": "Equitable share and other financial laws",
+          "content": "1. The following criteria shall be taken into account in determining the equitable shares provided for under Article 202 and in all national legislation concerning county government enacted in terms of this Chapter—\n   a. the national interest;\n   b. any provision that must be made in respect of the public debt and other national obligations;\n   c. the needs of the national government, determined by objective criteria;\n   d. the need to ensure that county governments are able to perform the functions allocated to them;\n   e. the fiscal capacity and efficiency of county governments;\n   f. developmental and other needs of counties;\n   g. economic disparities within and among counties and the need to remedy them;\n   h. the need for affirmative action in respect of disadvantaged areas and groups;\n   i. the need for economic optimisation of each county and to provide incentives for each county to optimise its capacity to raise revenue;\n   j. the desirability of stable and predictable allocations of revenue; and\n   k. the need for flexibility in responding to emergencies and other temporary needs, based on similar objective criteria.\n2. For every financial year, the equitable share of the revenue raised nationally that is allocated to county governments shall be not less than fifteen per cent of all revenue collected by the national government.\n3. The amount referred to in clause (2) shall be calculated on the basis of the most recent audited accounts of revenue received, as approved by the National Assembly."
+        },
+        {
+          "number": 204,
+          "title": "Equalisation Fund",
+          "content": "1. There is established an Equalisation Fund into which shall be paid one half per cent of all the revenue collected by the national government each year calculated on the basis of the most recent audited accounts of revenue received, as approved by the National Assembly.\n2. The national government shall use the Equalisation Fund only to provide basic services including water, roads, health facilities and electricity to marginalised areas to the extent necessary to bring the quality of those services in those areas to the level generally enjoyed by the rest of the nation, so far as possible.\n3. The national government may use the Equalisation Fund—\n   a. only to the extent that the expenditure of those funds has been approved in an Appropriation Bill enacted by Parliament; and\n   b. either directly, or indirectly through conditional grants to counties in which marginalised communities exist.\n4. The Commission on Revenue Allocation shall be consulted and its recommendations considered before Parliament passes any Bill appropriating money out of the Equalisation Fund.\n5. Any unexpended money in the Equalisation Fund at the end of a particular financial year shall remain in that Fund for use in accordance with clauses (2) and (3) during any subsequent financial year.\n6. This Article lapses twenty years after the effective date, subject to clause (7).\n7. Parliament may enact legislation suspending the effect of clause (6) for a further fixed period of years, subject to clause (8).\n8. Legislation under clause (7) shall be supported by more than half of all the members of the National Assembly, and more than half of all the county delegations in the Senate.\n9. Money shall not be withdrawn from the Equalisation Fund unless the Controller of Budget has approved the withdrawal."
+        },
+        {
+          "number": 205,
+          "title": "Consultation on financial legislation affecting counties",
+          "content": "1. When a Bill that includes provisions dealing with the sharing of revenue, or any financial matter concerning county governments is published, the Commission on Revenue Allocation shall consider those provisions and may make recommendations to the National Assembly and the Senate.\n2. Any recommendations made by the Commission shall be tabled in Parliament, and each House shall consider the recommendations before voting on the Bill."
+        }
+      ]
+    },
+    {
+      "part": "Part 2. Other Public Funds",
+      "articles": [
+        {
+          "number": 206,
+          "title": "Consolidated Fund and other public funds",
+          "content": "1. There is established the Consolidated Fund into which shall be paid all money raised or received by or on behalf of the national government, except money that—\n   a. is reasonably excluded from the Fund by an Act of Parliament and payable into another public fund established for a specific purpose; or\n   b. may, under an Act of Parliament, be retained by the State organ that received it for the purpose of defraying the expenses of the State organ.\n2. Money may be withdrawn from the Consolidated Fund only—\n   a. in accordance with an appropriation by an Act of Parliament;\n   b. in accordance with Article 222 or 223; or\n   c. as a charge against the Fund as authorised by this Constitution or an Act of Parliament.\n3. Money shall not be withdrawn from any national public fund other than the Consolidated Fund, unless the withdrawal of the money has been authorised by an Act of Parliament.\n4. Money shall not be withdrawn from the Consolidated Fund unless the Controller of Budget has approved the withdrawal."
+        },
+        {
+          "number": 207,
+          "title": "Revenue Funds for county governments",
+          "content": "1. There shall be established a Revenue Fund for each county government, into which shall be paid all money raised or received by or on behalf of the county government, except money reasonably excluded by an Act of Parliament.\n2. Money may be withdrawn from the Revenue Fund of a county government only—\n   a. as a charge against the Revenue Fund that is provided for by an Act of Parliament or by legislation of the county; or\n   b. as authorised by an appropriation by legislation of the county.\n3. Money shall not be withdrawn from a Revenue Fund unless the Controller of Budget has approved the withdrawal.\n4. An Act of Parliament may—\n   a. make further provision for the withdrawal of funds from a county Revenue Fund; and\n   b. provide for the establishment of other funds by counties and the management of those funds."
+        },
+        {
+          "number": 208,
+          "title": "Contingencies Fund",
+          "content": "1. There is established a Contingencies Fund, the operation of which shall be in accordance with an Act of Parliament.\n2. An Act of Parliament shall provide for advances from the Contingencies Fund if the Cabinet Secretary responsible for finance is satisfied that there is an urgent and unforeseen need for expenditure for which there is no other authority."
+        }
+      ]
+    },
+    {
+      "part": "Part 3. Revenue-Raising Powers and the Public Debt",
+      "articles": [
+        {
+          "number": 209,
+          "title": "Power to impose taxes and charges",
+          "content": "1. Only the national government may impose—\n   a. income tax;\n   b. value-added tax;\n   c. customs duties and other duties on import and export goods; and\n   d. excise tax.\n2. An Act of Parliament may authorise the national government to impose any other tax or duty, except a tax specified in clause (3)(a) or (b).\n3. A county may impose—\n   a. property rates;\n   b. entertainment taxes; and\n   c. any other tax that it is authorised to impose by an Act of Parliament.\n4. The national and county governments may impose charges for the services they provide.\n5. The taxation and other revenue-raising powers of a county shall not be exercised in a way that prejudices national economic policies, economic activities across county boundaries or the national mobility of goods, services, capital or labour."
+        },
+        {
+          "number": 210,
+          "title": "Imposition of tax",
+          "content": "1. No tax or licensing fee may be imposed, waived or varied except as provided by legislation.\n2. If legislation permits the waiver of any tax or licensing fee—\n   a. a public record of each waiver shall be maintained together with the reason for the waiver; and\n   b. each waiver, and the reason for it, shall be reported to the Auditor-General.\n3. No law may exclude or authorise the exclusion of a State officer from payment of tax by reason of—\n   a. the office held by that State officer; or\n   b. the nature of the work of the State officer."
+        },
+        {
+          "number": 211,
+          "title": "Borrowing by national government",
+          "content": "1. Parliament may, by legislation—\n   a. prescribe the terms on which the national government may borrow; and\n   b. impose reporting requirements.\n2. Within seven days after either House of Parliament so requests by resolution, the Cabinet Secretary responsible for finance shall present to the relevant committee, information concerning any particular loan or guarantee, including all information necessary to show—\n   a. the extent of the total indebtedness by way of principal and accumulated interest;\n   b. the use made or to be made of the proceeds of the loan;\n   c. the provision made for servicing or repayment of the loan; and\n   d. the progress made in the repayment of the loan."
+        },
+        {
+          "number": 212,
+          "title": "Borrowing by counties",
+          "content": "A county government may borrow only—\n   a. if the national government guarantees the loan; and\n   b. with the approval of the county government's assembly."
+        },
+        {
+          "number": 213,
+          "title": "Loan guarantees by national government",
+          "content": "1. An Act of Parliament shall prescribe terms and conditions under which the national government may guarantee loans.\n2. Within two months after the end of each financial year, the national government shall publish a report on the guarantees that it gave during that year."
+        },
+        {
+          "number": 214,
+          "title": "Public debt",
+          "content": "1. The public debt is a charge on the Consolidated Fund, but an Act of Parliament may provide for charging all or part of the public debt to other public funds.\n2. For the purposes of this Article, 'the public debt' means all financial obligations attendant to loans raised or guaranteed and securities issued or guaranteed by the national government."
+        }
+      ]
+    },
+    {
+      "part": "Part 4. Revenue Allocation",
+      "articles": [
+        {
+          "number": 215,
+          "title": "Commission on Revenue Allocation",
+          "content": "1. There is established the Commission on Revenue Allocation.\n2. The Commission shall consist of the following persons appointed by the President—\n   a. a chairperson, who shall be nominated by the President and approved by the National Assembly;\n   b. two persons nominated by the political parties represented in the National Assembly according to their proportion of members in the Assembly;\n   c. five persons nominated by the political parties represented in the Senate according to their proportion of members in the Senate; and\n   d. the Principal Secretary in the Ministry responsible for finance.\n3. The persons nominated under clause (2) shall not be members of Parliament.\n4. To be qualified to be a member of the Commission under clause (2)(a), (b) or (c), a person shall have extensive professional experience in financial and economic matters."
+        },
+        {
+          "number": 216,
+          "title": "Functions of the Commission on Revenue Allocation",
+          "content": "1. The principal function of the Commission on Revenue Allocation is to make recommendations concerning the basis for the equitable sharing of revenue raised by the national government—\n   a. between the national and county governments; and\n   b. among the county governments.\n2. The Commission shall also make recommendations on other matters concerning the financing of, and financial management by, county governments, as required by this Constitution and national legislation.\n3. In formulating recommendations, the Commission shall seek—\n   a. to promote and give effect to the criteria mentioned in Article 203(1);\n   b. when appropriate, to define and enhance the revenue sources of the national and county governments; and\n   c. to encourage fiscal responsibility.\n4. The Commission shall determine, publish and regularly review a policy in which it sets out the criteria by which to identify the marginalised areas for purposes of Article 204(2).\n5. The Commission shall submit its recommendations to the Senate, the National Assembly, the national executive, county assemblies and county executives."
+        },
+        {
+          "number": 217,
+          "title": "Division of revenue",
+          "content": "1. Once every five years, the Senate shall, by resolution, determine the basis for allocating among the counties the share of national revenue that is annually allocated to the county level of government.\n2. In determining the basis of revenue sharing under clause (1), the Senate shall—\n   a. take the criteria in Article 203(1) into account;\n   b. request and consider recommendations from the Commission on Revenue Allocation;\n   c. consult the county governors, the Cabinet Secretary responsible for finance and any organisation of county governments; and\n   d. invite the public, including professional bodies, to make submissions to it on the matter.\n3. Within ten days after the Senate adopts a resolution under clause (1), the Speaker of the Senate shall refer the resolution to the Speaker of the National Assembly.\n4. Within sixty days after the Senate's resolution is referred under clause (3), the National Assembly may consider the resolution, and vote to approve it, with or without amendments, or to reject it.\n5. If the National Assembly—\n   a. does not vote on the resolution within sixty days, the resolution shall be regarded as having been approved by the National Assembly without amendment; or\n   b. votes on the resolution, the resolution shall have been—\n      i. amended only if at least two-thirds of the members of the Assembly vote in support of an amendment;\n      ii. rejected only if at least two-thirds of the members of the Assembly vote against it, irrespective whether it has first been amended by the Assembly; or\n      iii. approved, in any other case.\n6. If the National Assembly approves an amended version of the resolution, or rejects the resolution, the Senate, at its option, may either—\n   a. adopt a new resolution under clause (1), in which case the provisions of this clause and clause (4) and (5) apply afresh; or\n   b. request that the matter be referred to a joint committee of the two Houses of Parliament for mediation under Article 113, applied with the necessary modifications.\n7. A resolution under this Article that is approved under clause (5) shall be binding until a subsequent resolution has been approved.\n8. Despite clause (1), the Senate may, by resolution supported by at least two-thirds of its members, amend a resolution at any time after it has been approved.\n9. Clauses (2) to (8), with the necessary modifications, apply to a resolution under clause (8)."
+        },
+        {
+          "number": 218,
+          "title": "Annual Division and Allocation of Revenue Bills",
+          "content": "1. At least two months before the end of each financial year, there shall be introduced in Parliament—\n   a. a Division of Revenue Bill, which shall divide revenue raised by the national government among the national and county levels of government in accordance with this Constitution; and\n   b. a County Allocation of Revenue Bill, which shall divide among the counties the revenue allocated to the county level of government on the basis determined in accordance with the resolution in force under Article 217.\n2. Each Bill required by clause (1) shall be accompanied by a memorandum setting out—\n   a. an explanation of revenue allocation as proposed by the Bill;\n   b. an evaluation of the Bill in relation to the criteria mentioned in Article 203(1); and\n   c. a summary of any significant deviation from the Commission on Revenue Allocation's recommendations, with an explanation for each such deviation."
+        },
+        {
+          "number": 219,
+          "title": "Transfer of equitable share",
+          "content": "A county's share of revenue raised by the national government shall be transferred to the county without undue delay and without deduction, except when the transfer has been stopped under Article 225."
+        }
+      ]
+    },
+    {
+      "part": "Part 5. Budgets and Spending",
+      "articles": [
+        {
+          "number": 220,
+          "title": "Form, content and timing of budgets",
+          "content": "1. Budgets of the national and county governments shall contain—\n   a. estimates of revenue and expenditure, differentiating between recurrent and development expenditure;\n   b. proposals for financing any anticipated deficit for the period to which they apply; and\n   c. proposals regarding borrowing and other forms of public liability that will increase public debt during the following year.\n2. National legislation shall prescribe—\n   a. the structure of the development plans and budgets of counties;\n   b. when the plans and budgets of the counties shall be tabled in the county assemblies; and\n   c. the form and manner of consultation between the national government and county governments in the process of preparing plans and budgets."
+        },
+        {
+          "number": 221,
+          "title": "Budget estimates and annual Appropriation Bill",
+          "content": "1. At least two months before the end of each financial year, the Cabinet Secretary responsible for finance shall submit to the National Assembly estimates of the revenue and expenditure of the national government for the next financial year to be tabled in the National Assembly.\n2. The estimates mentioned in clause (1) shall—\n   a. include estimates for expenditure from the Equalisation Fund; and\n   b. be in the form, and according to the procedure, prescribed by an Act of Parliament.\n3. The National Assembly shall consider the estimates submitted under clause (1) together with the estimates submitted by the Parliamentary Service Commission and the Chief Registrar of the Judiciary under Articles 127 and 173 respectively.\n4. Before the National Assembly considers the estimates of revenue and expenditure, a committee of the Assembly shall discuss and review the estimates and make recommendations to the Assembly.\n5. In discussing and reviewing the estimates, the committee shall seek representations from the public and the recommendations shall be taken into account when the committee makes its recommendations to the National Assembly.\n6. When the estimates of national government expenditure, and the estimates of expenditure for the Judiciary and Parliament have been approved by the National Assembly, they shall be included in an Appropriation Bill, which shall be introduced into the National Assembly to authorise the withdrawal from the Consolidated Fund of the money needed for the expenditure, and for the appropriation of that money for the purposes mentioned in the Bill.\n7. The Appropriation Bill mentioned in clause (6) shall not include expenditures that are charged on the Consolidated Fund by this Constitution or an Act of Parliament."
+        }
+      ]
+    },
+    {
+      "part": "Part 6. Control of Public Money",
+      "articles": [
+        {
+          "number": 225,
+          "title": "Financial control",
+          "content": "1. An Act of Parliament shall provide for the establishment, functions and responsibilities of the national Treasury.\n2. Parliament shall enact legislation to ensure both expenditure control and transparency in all governments and establish mechanisms to ensure their implementation.\n3. Legislation under clause (2) may authorise the Cabinet Secretary responsible for finance to stop the transfer of funds to a State organ or any other public entity—\na. only for a serious material breach or persistent material breaches of the measures established under that legislation; and\nb. subject to the requirements of clauses (4) to (7).\n4. A decision to stop the transfer of funds under clause (3) may not stop the transfer of more than fifty per cent of funds due to a county government.\n5. A decision to stop the transfer of funds as contemplated in clause (3)—\na. shall not stop the transfer of funds for more than sixty days; and\nb. may be enforced immediately, but will lapse retrospectively unless, within thirty days after the date of the decision, Parliament approves it by resolution passed by both Houses.\n6. Parliament may renew a decision to stop the transfer of funds but for no more than sixty days at a time.\n7. Parliament may not approve or renew a decision to stop the transfer of funds unless—\na. the Controller of Budget has presented a report on the matter to Parliament; and\nb. the public entity has been given an opportunity to answer the allegations against it, and to state its case, before the relevant parliamentary committee."
+        },
+        {
+          "number": 226,
+          "title": "Accounts and audit of public entities",
+          "content": "1. An Act of Parliament shall provide for—\na. the keeping of financial records and the auditing of accounts of all governments and other public entities, and prescribe other measures for securing efficient and transparent fiscal management; and\nb. the designation of an accounting officer in every public entity at the national and county level of government.\n2. The accounting officer of a national public entity is accountable to the National Assembly for its financial management, and the accounting officer of a county public entity is accountable to the county assembly for its financial management.\n3. Subject to clause (4), the accounts of all governments and State organs shall be audited by the Auditor-General.\n4. The accounts of the office of the Auditor-General shall be audited and reported on by a professionally qualified accountant appointed by the National Assembly.\n5. If the holder of a public office, including a political office, directs or approves the use of public funds contrary to law or instructions, the person is liable for any loss arising from that use and shall make good the loss, whether the person remains the holder of the office or not."
+        },
+        {
+          "number": 227,
+          "title": "Procurement of public goods and services",
+          "content": "1. When a State organ or any other public entity contracts for goods or services, it shall do so in accordance with a system that is fair, equitable, transparent, competitive and cost-effective.\n2. An Act of Parliament shall prescribe a framework within which policies relating to procurement and asset disposal shall be implemented and may provide for all or any of the following—\na. categories of preference in the allocation of contracts;\nb. the protection or advancement of persons, categories of persons or groups previously disadvantaged by unfair competition or discrimination;\nc. sanctions against contractors that have not performed according to professionally regulated procedures, contractual agreements or legislation; and\nd. sanctions against persons who have defaulted on their tax obligations, or have been guilty of corrupt practices or serious violations of fair employment laws and practices."
+        }
+      ]
+    },
+    {
+      "part": "Part 7. Financial Officers and Institutions",
+      "articles": [
+        {
+          "number": 228,
+          "title": "Controller of Budget",
+          "content": "1. There shall be a Controller of Budget who shall be nominated by the President and, with the approval of the National Assembly, appointed by the President.\n2. To be qualified to be the Controller, a person shall have extensive knowledge of public finance or at least ten years experience in auditing public finance management.\n3. The Controller shall, subject to Article 251, hold office for a term of eight years and shall not be eligible for re-appointment.\n4. The Controller of Budget shall oversee the implementation of the budgets of the national and county governments by authorising withdrawals from public funds under Articles 204, 206 and 207.\n5. The Controller shall not approve any withdrawal from a public fund unless satisfied that the withdrawal is authorised by law.\n6. Every four months, the Controller shall submit to each House of Parliament a report on the implementation of the budgets of the national and county governments."
+        },
+        {
+          "number": 229,
+          "title": "Auditor-General",
+          "content": "1. There shall be an Auditor-General who shall be nominated by the President and, with the approval of the National Assembly, appointed by the President.\n2. To be qualified to be the Auditor-General, a person shall have extensive knowledge of public finance or at least ten years experience in auditing or public finance management.\n3. The Auditor-General holds office, subject to Article 251, for a term of eight years and shall not be eligible for re-appointment.\n4. Within six months after the end of each financial year, the Auditor-General shall audit and report, in respect of that financial year, on—\na. the accounts of the national and county governments;\nb. the accounts of all funds and authorities of the national and county governments;\nc. the accounts of all courts;\nd. the accounts of every commission and independent office established by this Constitution;\ne. the accounts of the National Assembly, the Senate and the county assemblies;\nf. the accounts of political parties funded from public funds;\ng. the public debt; and\nh. the accounts of any other entity that legislation requires the Auditor-General to audit.\n5. The Auditor-General may audit and report on the accounts of any entity that is funded from public funds.\n6. An audit report shall confirm whether or not public money has been applied lawfully and in an effective way.\n7. Audit reports shall be submitted to Parliament or the relevant county assembly.\n8. Within three months after receiving an audit report, Parliament or the county assembly shall debate and consider the report and take appropriate action."
+        },
+        {
+          "number": 230,
+          "title": "Salaries and Remuneration Commission",
+          "content": "1. There is established the Salaries and Remuneration Commission.\n2. The Salaries and Remuneration Commission consists of the following persons appointed by the President—\na. a chairperson;\nb. one person each nominated by the following bodies from among persons who are not members or employees of those bodies—\ni. the Parliamentary Service Commission;\nii. the Public Service Commission;\niii. the Judicial Service Commission;\niv. the Teachers Service Commission;\nv. the National Police Service Commission;\nvi. the Defence Council; and\nvii. the Senate, on behalf of the county governments;\nc. one person each nominated by—\ni. an umbrella body representing trade unions;\nii. an umbrella body representing employers; and\niii. a joint forum of professional bodies as provided by legislation;\nd. one person each nominated by—\ni. the Cabinet Secretary responsible for finance; and\nii. the Attorney-General; and\ne. one person who has experience in the management of human resources in the public service, nominated by the Cabinet Secretary responsible for public service.\n3. The Commissioners under clause (1) (d) and (e) shall have no vote.\n4. The powers and functions of the Salaries and Remuneration Commission shall be to—\na. set and regularly review the remuneration and benefits of all State officers; and\nb. advise the national and county governments on the remuneration and benefits of all other public officers.\n5. In performing its functions, the Commission shall take the following principles into account—\na. the need to ensure that the total public compensation bill is fiscally sustainable;\nb. the need to ensure that the public services are able to attract and retain the skills required to execute their functions;\nc. the need to recognise productivity and performance; and\nd. transparency and fairness."
+        },
+        {
+          "number": 231,
+          "title": "Central Bank of Kenya",
+          "content": "1. There is established the Central Bank of Kenya.\n2. The Central Bank of Kenya shall be responsible for formulating monetary policy, promoting price stability, issuing currency and performing other functions conferred on it by an Act of Parliament.\n3. The Central Bank of Kenya shall not be under the direction or control of any person or authority in the exercise of its powers or in the performance of its functions.\n4. Notes and coins issued by the Central Bank of Kenya may bear images that depict or symbolise Kenya or an aspect of Kenya but shall not bear the portrait of any individual.\n5. An Act of Parliament shall provide for the composition, powers, functions and operations of the Central Bank of Kenya."
+        }
+      ]
+    }
+    ]
+    },
+    {
+  "chapter": "Chapter 13. The Public Service",
+  "parts": [
+    {
+      "part": "Part 1. Values and Principles of Public Service",
+      "articles": [
+        {
+          "number": 232,
+          "title": "Values and principles of public service",
+          "content": "1. The values and principles of public service include—\na. high standards of professional ethics;\nb. efficient, effective and economic use of resources;\nc. responsive, prompt, effective, impartial and equitable provision of services;\nd. involvement of the people in the process of policy making;\ne. accountability for administrative acts;\nf. transparency and provision to the public of timely, accurate information;\ng. subject to paragraphs (h) and (i), fair competition and merit as the basis of appointments and promotions;\nh. representation of Kenya's diverse communities; and\ni. affording adequate and equal opportunities for appointment, training and advancement, at all levels of the public service, of—\n   i. men and women;\n   ii. the members of all ethnic groups; and\n   iii. persons with disabilities.\n\n2. The values and principles of public service apply to public service in—\na. all State organs in both levels of government; and\nb. all State corporations.\n\n3. Parliament shall enact legislation to give full effect to this Article."
+        }
+      ]
+    },
+    {
+      "part": "Part 2. The Public Service Commission",
+      "articles": [
+        {
+          "number": 233,
+          "title": "The Public Service Commission",
+          "content": "1. There is established the Public Service Commission.\n2. The Public Service Commission consists of a chairperson, a vice chairperson and seven other members appointed by the President with the approval of the National Assembly.\n3. Subject to clause (4), a person is not eligible for appointment as a member of the Commission if the person—\na. has, at any time within the preceding five years, held office, or stood for election as—\n   i. a member of Parliament or of a county assembly; or\n   ii. a member of the governing body of a political party; or\nb. holds any State office;\nc. is, or has at any time been, a candidate for election as a member of Parliament or of a county assembly; or\nd. is, or has at any time been, the holder of an office in any political organisation that sponsors or otherwise supports, or has at any time sponsored or otherwise supported, a candidate for election as a member of Parliament or of a county assembly.\n4. Clause (3) (c) and (d) cease to apply to a person after two general elections for Parliament have been held since the person ceased to be such a candidate or office holder.\n5. There shall be a secretary to the Commission.\n6. The secretary—\na. is the chief executive of the Commission; and\nb. shall be appointed by the Commission for a term of five years, and is eligible for re-appointment once."
+        },
+        {
+          "number": 234,
+          "title": "Functions and powers of the Public Service Commission",
+          "content": "1. The functions and powers of the Commission are as set out in this Article.\n2. The Commission shall—\na. subject to this Constitution and legislation—\n   i. establish and abolish offices in the public service; and\n   ii. appoint persons to hold or act in those offices, and to confirm appointments;\nb. exercise disciplinary control over and remove persons holding or acting in those offices;\nc. promote the values and principles mentioned in Articles 10 and 232 throughout the public service;\nd. investigate, monitor and evaluate the organisation, administration and personnel practices of the public service;\ne. ensure that the public service is efficient and effective;\nf. develop human resources in the public service;\ng. review and make recommendations to the national government in respect of conditions of service, code of conduct and qualifications of officers in the public service;\nh. evaluate and report to the President and Parliament on the extent to which the values and principles mentioned in Articles 10 and 232 are complied with in the public service;\ni. hear and determine appeals in respect of county governments' public service; and\nj. perform any other functions and exercise any other powers conferred by national legislation.\n3. Clauses (1) and (2) shall not apply to any of the following offices in the public service—\na. State offices;\nb. an office of high commissioner, ambassador or other diplomatic or consular representative of the Republic;\nc. an office or position subject to—\n   i. the Parliamentary Service Commission;\n   ii. the Judicial Service Commission;\n   iii. the Teachers Service Commission;\n   iv. the National Police Service Commission; or\nd. an office in the service of a county government, except as contemplated in clause (2) (i).\n4. The Commission shall not appoint a person under clause (2) to hold or act in any office on the personal staff of the President or a retired President, except with the consent of the President or retired President.\n5. The Commission may delegate, in writing, with or without conditions, any of its functions and powers under this Article to any one or more of its members, or to any officer, body or authority in the public service."
+        },
+        {
+          "number": 235,
+          "title": "Staffing of county governments",
+          "content": "1. A county government is responsible, within a framework of uniform norms and standards prescribed by an Act of Parliament, for—\na. establishing and abolishing offices in its public service;\nb. appointing persons to hold or act in those offices, and confirming appointments; and\nc. exercising disciplinary control over and removing persons holding or acting in those offices.\n2. Clause (1) shall not apply to any office or position subject to the Teachers Service Commission."
+        },
+        {
+          "number": 236,
+          "title": "Protection of public officers",
+          "content": "A public officer shall not be—\na. victimised or discriminated against for having performed the functions of office in accordance with this Constitution or any other law; or\nb. dismissed, removed from office, demoted in rank or otherwise subjected to disciplinary action without due process of law."
+        }
+      ]
+    },
+    {
+  "part": "Part 3. Teachers Service Commission",
+  "articles": [
+    {
+      "number": 237,
+      "title": "Teachers Service Commission",
+      "content": "1. There is established the Teachers Service Commission.\n2. The functions of the Commission are—\na. to register trained teachers;\nb. to recruit and employ registered teachers;\nc. to assign teachers employed by the Commission for service in any public school or institution;\nd. to promote and transfer teachers;\ne. to exercise disciplinary control over teachers; and\nf. to terminate the employment of teachers.\n3. The Commission shall—\na. review the standards of education and training of persons entering the teaching service;\nb. review the demand for and the supply of teachers; and\nc. advise the national government on matters relating to the teaching profession."
+        }
+      ]
+    }
+
+      ]
+    },
+    {
+  "chapter": "CHAPTER 14. NATIONAL SECURITY",
+  "parts": [
+    {
+      "part": "Part 1. National Security Organs",
+      "articles": [
+        {
+          "number": 238,
+          "title": "Principles of national security",
+          "content": "1. National security is the protection against internal and external threats to Kenya's territorial integrity and sovereignty, its people, their rights, freedoms, property, peace, stability and prosperity, and other national interests.\n2. The national security of Kenya shall be promoted and guaranteed in accordance with the following principles—\na. national security is subject to the authority of this Constitution and Parliament;\nb. national security shall be pursued in compliance with the law and with the utmost respect for the rule of law, democracy, human rights and fundamental freedoms;\nc. in performing their functions and exercising their powers, national security organs shall respect the diverse culture of the communities within Kenya; and\nd. recruitment by the national security organs shall reflect the diversity of the Kenyan people in equitable proportions."
+        },
+        {
+          "number": 239,
+          "title": "National security organs",
+          "content": "1. The national security organs are—\na. the Kenya Defence Forces;\nb. the National Intelligence Service; and\nc. the National Police Service.\n2. The primary object of the national security organs and security system is to promote and guarantee national security in accordance with the principles mentioned in Article 238 (2).\n3. In performing their functions and exercising their powers, the national security organs and every member of the national security organs shall not—\na. act in a partisan manner;\nb. further any interest of a political party or cause; or\nc. prejudice a political interest or political cause that is legitimate under this Constitution.\n4. A person shall not establish a military, paramilitary, or similar organisation that purports to promote and guarantee national security, except as provided for by this Constitution or an Act of Parliament.\n5. The national security organs are subordinate to civilian authority.\n6. Parliament shall enact legislation to provide for the functions, organisation and administration of the national security organs."
+        },
+        {
+          "number": 240,
+          "title": "Establishment of the National Security Council",
+          "content": "1. There is established a National Security Council.\n2. The Council consists of—\na. the President;\nb. the Deputy President;\nc. the Cabinet Secretary responsible for defence;\nd. the Cabinet Secretary responsible for foreign affairs;\ne. the Cabinet Secretary responsible for internal security;\nf. the Attorney-General;\ng. the Chief of Kenya Defence Forces;\nh. the Director-General of the National Intelligence Service; and\ni. the Inspector-General of the National Police Service.\n3. The Council shall exercise supervisory control over national security organs and perform any other functions prescribed by national legislation.\n4. The President shall preside at meetings of the Council.\n5. The Council shall appoint its secretary.\n6. The Council shall—\na. integrate the domestic, foreign and military policies relating to national security in order to enable the national security organs to co-operate and function effectively; and\nb. assess and appraise the objectives, commitments and risks to the Republic in respect of actual and potential national security capabilities.\n7. The Council shall report annually to Parliament on the state of the security of Kenya.\n8. The Council may, with the approval of Parliament—\na. deploy national forces outside Kenya for—\ni. regional or international peace support operations; or\nii. other support operations; and\nb. approve the deployment of foreign forces in Kenya."
+        }
+      ]
+    },
+    {
+      "part": "Part 2. The Kenya Defence Forces",
+      "articles": [
+        {
+          "number": 241,
+          "title": "Establishment of Defence Forces and Defence Council",
+          "content": "1. There are established the Kenya Defence Forces.\n2. The Defence Forces consist of—\na. the Kenya Army;\nb. the Kenya Air Force; and\nc. the Kenya Navy.\n3. The Defence Forces—\na. are responsible for the defence and protection of the sovereignty and territorial integrity of the Republic;\nb. shall assist and cooperate with other authorities in situations of emergency or disaster, and report to the National Assembly whenever deployed in such circumstances; and\nc. may be deployed to restore peace in any part of Kenya affected by unrest or instability only with the approval of the National Assembly.\n4. The composition of the command of the Defence Forces shall reflect the regional and ethnic diversity of the people of Kenya.\n5. There is established a Defence Council.\n6. The Council consists of—\na. the Cabinet Secretary responsible for defence, who is the chairperson;\nb. the Chief of the Kenya Defence Forces;\nc. the three commanders of the defence forces; and\nd. the Principal Secretary in the Ministry responsible for defence.\n7. The Council—\na. is responsible for the overall policy, control, and supervision of the Kenya Defence Forces; and\nb. performs any other functions prescribed by national legislation."
+        }
+      ]
+    },
+    {
+      "part": "Part 3. The National Intelligence Service",
+      "articles": [
+        {
+          "number": 242,
+          "title": "Establishment of National Intelligence Service",
+          "content": "1. There is established the National Intelligence Service.\n2. The National Intelligence Service—\na. is responsible for security intelligence and counter intelligence to enhance national security in accordance with this Constitution; and\nb. performs any other functions prescribed by national legislation."
+        }
+      ]
+    },
+    {
+      "part": "Part 4. The National Police Service",
+      "articles": [
+        {
+          "number": 243,
+          "title": "Establishment of the National Police Service",
+          "content": "1. There is established the National Police Service.\n2. The National Police Service consists of—\na. the Kenya Police Service; and\nb. the Administration Police Service.\n3. The National Police Service is a national service and shall function throughout Kenya.\n4. Parliament shall enact legislation to give full effect to this Article."
+        },
+        {
+          "number": 244,
+          "title": "Objects and functions of the National Police Service",
+          "content": "The National Police Service shall—\na. strive for the highest standards of professionalism and discipline among its members;\nb. prevent corruption and promote and practice transparency and accountability;\nc. comply with constitutional standards of human rights and fundamental freedoms;\nd. train staff to the highest possible standards of competence and integrity and to respect human rights and fundamental freedoms and dignity; and\ne. foster and promote relationships with the broader society."
+        },
+        {
+          "number": 245,
+          "title": "Command of the National Police Service",
+          "content": "1. There is established the office of the Inspector-General of the National Police Service.\n2. The Inspector-General—\na. is appointed by the President with the approval of Parliament; and\nb. shall exercise independent command over the National Police Service, and perform any other functions prescribed by national legislation.\n3. The Kenya Police Service and the Administration Police Service shall each be headed by a Deputy Inspector-General appointed by the President in accordance with the recommendation of the National Police Service Commission.\n4. The Cabinet Secretary responsible for police services may lawfully give a direction to the Inspector-General with respect to any matter of policy for the National Police Service, but no person may give a direction to the Inspector-General with respect to—\na. the investigation of any particular offence or offences;\nb. the enforcement of the law against any particular person or persons; or\nc. the employment, assignment, promotion, suspension or dismissal of any member of the National Police Service.\n5. Any direction given to the Inspector-General by the Cabinet Secretary responsible for police services under clause (4), or any direction given to the Inspector-General by the Director of Public Prosecutions under Article 157(4), shall be in writing.\n6. The Inspector-General shall be appointed for a single four-year term, and is not eligible for re-appointment.\n7. The Inspector-General may be removed from office by the President only on the grounds of—\na. serious violation of this Constitution or any other law, including a contravention of Chapter Six;\nb. gross misconduct whether in the performance of the office holder's functions or otherwise;\nc. physical or mental incapacity to perform the functions of office;\nd. incompetence;\ne. bankruptcy; or\nf. any other just cause.\n8. Parliament shall enact legislation to give full effect to this Article."
+        },
+        {
+          "number": 246,
+          "title": "National Police Service Commission",
+          "content": "1. There is established the National Police Service Commission.\n2. The Commission consists of—\na. the following persons, each appointed by the President—\ni. a person who is qualified to be appointed as a High Court Judge;\nii. two retired senior police officers; and\niii. three persons of integrity who have served the public with distinction;\nb. the Inspector-General of the National Police Service; and\nc. both Deputy Inspectors-General of the National Police Service.\n3. The Commission shall—\na. recruit and appoint persons to hold or act in offices in the service, confirm appointments, and determine promotions and transfers within the National Police Service;\nb. observing due process, exercise disciplinary control over and remove persons holding or acting in offices within the Service; and\nc. perform any other functions prescribed by national legislation.\n4. The composition of the National Police Service shall reflect the regional and ethnic diversity of the people of Kenya."
+        },
+        {
+          "number": 247,
+          "title": "Other police services",
+          "content": "Parliament may enact legislation establishing other police services under the supervision of the National Police Service and the command of the Inspector-General of the Service."
+        }
+        ]
+      }
+    ]
+  },
+  {
+  "chapter": "Chapter 15. Commissions and Independent Offices",
+  "parts": [
+    {
+      "part": "General Provisions",
+      "articles": [
+        {
+          "number": 248,
+          "title": "Application of Chapter",
+          "content": "1. This Chapter applies to the commissions specified in clause (2) and the independent offices specified in clause (3), except to the extent that this Constitution provides otherwise.\n2. The commissions are—\n   a. the Kenya National Human Rights and Equality Commission;\n   b. the National Land Commission;\n   c. the Independent Electoral and Boundaries Commission;\n   d. the Parliamentary Service Commission;\n   e. the Judicial Service Commission;\n   f. the Commission on Revenue Allocation;\n   g. the Public Service Commission;\n   h. the Salaries and Remuneration Commission;\n   i. the Teachers Service Commission; and\n   j. the National Police Service Commission.\n3. The independent offices are—\n   a. the Auditor-General; and\n   b. the Controller of Budget."
+        },
+        {
+          "number": 249,
+          "title": "Objects, authority and funding of commissions and independent offices",
+          "content": "1. The objects of the commissions and the independent offices are to—\n   a. protect the sovereignty of the people;\n   b. secure the observance by all State organs of democratic values and principles; and\n   c. promote constitutionalism.\n2. The commissions and the holders of independent offices—\n   a. are subject only to this Constitution and the law; and\n   b. are independent and not subject to direction or control by any person or authority.\n3. Parliament shall allocate adequate funds to enable each commission and independent office to perform its functions and the budget of each commission and independent office shall be a separate vote."
+        },
+        {
+          "number": 250,
+          "title": "Composition, appointment and terms of office",
+          "content": "1. Each commission shall consist of at least three, but not more than nine, members.\n2. The chairperson and each member of a commission, and the holder of an independent office, shall be—\n   a. identified and recommended for appointment in a manner prescribed by national legislation;\n   b. approved by the National Assembly; and\n   c. appointed by the President.\n3. To be appointed, a person shall have the specific qualifications required by this Constitution or national legislation.\n4. Appointments to commissions and independent offices shall take into account the national values mentioned in Article 10, and the principle that the composition of the commissions and offices, taken as a whole, shall reflect the regional and ethnic diversity of the people of Kenya.\n5. A member of a commission may serve on a part-time basis.\n6. A member of a commission, or the holder of an independent office—\n   a. unless ex officio, shall be appointed for a single term of six years and is not eligible for re-appointment; and\n   b. unless ex officio or part-time, shall not hold any other office or employment for profit, whether public or private.\n7. The remuneration and benefits payable to or in respect of a commissioner or the holder of an independent office shall be a charge on the Consolidated Fund.\n8. The remuneration and benefits payable to, or in respect of, a commissioner or the holder of an independent office shall not be varied to the disadvantage of that commissioner or holder of an independent office.\n9. A member of a commission, or the holder of an independent office, is not liable for anything done in good faith in the performance of a function of office.\n10. The members of a commission shall elect a vice-chairperson from among themselves—\n   a. at the first sitting of the commission; and\n   b. whenever it is necessary to fill a vacancy in the office of the vice-chairperson.\n11. The chairperson and vice-chairperson of a commission shall not be of the same gender.\n12. There shall be a Secretary to each commission who shall be—\n   a. appointed by the commission; and\n   b. the chief executive officer of the commission."
+        },
+        {
+          "number": 251,
+          "title": "Removal from office",
+          "content": "1. A member of a commission (other than an ex officio member), or the holder of an independent office, may be removed from office only for—\n   a. serious violation of this Constitution or any other law, including a contravention of Chapter Six;\n   b. gross misconduct, whether in the performance of the member's or office holder's functions or otherwise;\n   c. physical or mental incapacity to perform the functions of office;\n   d. incompetence; or\n   e. bankruptcy.\n2. A person desiring the removal of a member of a commission or of a holder of an independent office on any ground specified in clause (1) may present a petition to the National Assembly setting out the alleged facts constituting that ground.\n3. The National Assembly shall consider the petition and, if it is satisfied that it discloses a ground under clause (1), shall send the petition to the President.\n4. On receiving a petition under clause (3), the President—\n   a. may suspend the member or office holder pending the outcome of the complaint; and\n   b. shall appoint a tribunal in accordance with clause (5).\n5. The tribunal shall consist of—\n   a. a person who holds or has held office as a judge of a superior court, who shall be the chairperson;\n   b. at least two persons who are qualified to be appointed as High Court judges; and\n   c. one other member who is qualified to assess the facts in respect of the particular ground for removal.\n6. The tribunal shall investigate the matter expeditiously, report on the facts and make a binding recommendation to the President, who shall act in accordance with the recommendation within thirty days.\n7. A person suspended under this Article is entitled to continue to receive one-half of the remuneration and benefits of the office while suspended."
+        },
+        {
+          "number": 252,
+          "title": "General functions and powers",
+          "content": "1. Each commission, and each holder of an independent office—\n   a. may conduct investigations on its own initiative or on a complaint made by a member of the public;\n   b. has the powers necessary for conciliation, mediation and negotiation;\n   c. shall recruit its own staff; and\n   d. may perform any functions and exercise any powers prescribed by legislation, in addition to the functions and powers conferred by this Constitution.\n2. A complaint to a commission or the holder of an independent office may be made by any person entitled to institute court proceedings under Article 22 (1) and (2).\n3. The following commissions and independent offices have the power to issue a summons to a witness to assist for the purposes of its investigations—\n   a. the Kenya National Human Rights and Equality Commission;\n   b. the Judicial Service Commission;\n   c. the National Land Commission; and\n   d. the Auditor-General."
+        },
+        {
+          "number": 253,
+          "title": "Incorporation of commissions and independent offices",
+          "content": "Each commission and each independent office—\n   a. is a body corporate with perpetual succession and a seal; and\n   b. is capable of suing and being sued in its corporate name."
+        },
+        {
+          "number": 254,
+          "title": "Reporting by commissions and independent offices",
+          "content": "1. As soon as practicable after the end of each financial year, each commission, and each holder of an independent office, shall submit a report to the President and to Parliament.\n2. At any time, the President, the National Assembly or the Senate may require a commission or holder of an independent office to submit a report on a particular issue.\n3. Every report required from a commission or holder of an independent office under this Article shall be published and publicised."
+        }
+        ]
+      }
+    ]
+  },
+  {
+  "chapter": "Chapter 16. Amendment of this Constitution",
+  "parts": [
+    {
+      "part": "Amendment of the Constitution",
+      "articles": [
+        {
+          "number": 255,
+          "title": "Amendment of this Constitution",
+          "content": "1. A proposed amendment to this Constitution shall be enacted in accordance with Article 256 or 257, and approved in accordance with clause (2) by a referendum, if the amendment relates to any of the following matters—\na. the supremacy of this Constitution;\nb. the territory of Kenya;\nc. the sovereignty of the people;\nd. the national values and principles of governance mentioned in Article 10 (2) (a) to (d);\ne. the Bill of Rights;\nf. the term of office of the President;\ng. the independence of the Judiciary and the commissions and independent offices to which Chapter Fifteen applies;\nh. the functions of Parliament;\ni. the objects, principles and structure of devolved government; or\nj. the provisions of this Chapter.\n\n2. A proposed amendment shall be approved by a referendum under clause (1) if—\na. at least twenty per cent of the registered voters in each of at least half of the counties vote in the referendum; and\nb. the amendment is supported by a simple majority of the citizens voting in the referendum.\n\n3. An amendment to this Constitution that does not relate to a matter mentioned in clause (1) shall be enacted either—\na. by Parliament, in accordance with Article 256; or\nb. by the people and Parliament, in accordance with Article 257."
+        },
+        {
+          "number": 256,
+          "title": "Amendment by parliamentary initiative",
+          "content": "1. A Bill to amend this Constitution—\na. may be introduced in either House of Parliament;\nb. may not address any other matter apart from consequential amendments to legislation arising from the Bill;\nc. shall not be called for second reading in either House within ninety days after the first reading of the Bill in that House; and\nd. shall have been passed by Parliament when each House of Parliament has passed the Bill, in both its second and third readings, by not less than two-thirds of all the members of that House.\n\n2. Parliament shall publicise any Bill to amend this Constitution, and facilitate public discussion about the Bill.\n\n3. After Parliament passes a Bill to amend this Constitution, the Speakers of the two Houses of Parliament shall jointly submit to the President—\na. the Bill, for assent and publication; and\nb. a certificate that the Bill has been passed by Parliament in accordance with this Article.\n\n4. Subject to clause (5), the President shall assent to the Bill and cause it to be published within thirty days after the Bill is enacted by Parliament.\n\n5. If a Bill to amend this Constitution proposes an amendment relating to a matter mentioned in Article 255 (1)—\na. the President shall, before assenting to the Bill, request the Independent Electoral and Boundaries Commission to conduct, within ninety days, a national referendum for approval of the Bill; and\nb. within thirty days after the chairperson of the Independent Electoral and Boundaries Commission has certified to the President that the Bill has been approved in accordance with Article 255 (2), the President shall assent to the Bill and cause it to be published."
+        },
+        {
+          "number": 257,
+          "title": "Amendment by popular initiative",
+          "content": "1. An amendment to this Constitution may be proposed by a popular initiative signed by at least one million registered voters.\n\n2. A popular initiative for an amendment to this Constitution may be in the form of a general suggestion or a formulated draft Bill.\n\n3. If a popular initiative is in the form of a general suggestion, the promoters of that popular initiative shall formulate it into a draft Bill.\n\n4. The promoters of a popular initiative shall deliver the draft Bill and the supporting signatures to the Independent Electoral and Boundaries Commission, which shall verify that the initiative is supported by at least one million registered voters.\n\n5. If the Independent Electoral and Boundaries Commission is satisfied that the initiative meets the requirements of this Article, the Commission shall submit the draft Bill to each county assembly for consideration within three months after the date it was submitted by the Commission.\n\n6. If a county assembly approves the draft Bill within three months after the date it was submitted by the Commission, the speaker of the county assembly shall deliver a copy of the draft Bill jointly to the Speakers of the two Houses of Parliament, with a certificate that the county assembly has approved it.\n\n7. If a draft Bill has been approved by a majority of the county assemblies, it shall be introduced in Parliament without delay.\n\n8. A Bill under this Article is passed by Parliament if supported by a majority of the members of each House.\n\n9. If Parliament passes the Bill, it shall be submitted to the President for assent in accordance with Articles 256 (4) and (5).\n\n10. If either House of Parliament fails to pass the Bill, or the Bill relates to a matter mentioned in 255 (1), the proposed amendment shall be submitted to the people in a referendum.\n\n11. Article 255 (2) applies, with any necessary modifications, to a referendum under clause (10)."
+        }
+      ]
+      }
+    ]
+  },
+  {
+  "chapter": "Chapter 17. General Provisions",
+  "parts": [
+    {
+      "part": "General Provisions",
+      "articles": [
+        {
+          "number": 258,
+          "title": "Enforcement of this Constitution",
+          "content": "1. Every person has the right to institute court proceedings, claiming that this Constitution has been contravened, or is threatened with contravention.\n\n2. In addition to a person acting in their own interest, court proceedings under clause (1) may be instituted by—\na. a person acting on behalf of another person who cannot act in their own name;\nb. a person acting as a member of, or in the interest of, a group or class of persons;\nc. a person acting in the public interest; or\nd. an association acting in the interest of one or more of its members."
+        },
+        {
+          "number": 259,
+          "title": "Construing this Constitution",
+          "content": "1. This Constitution shall be interpreted in a manner that—\na. promotes its purposes, values and principles;\nb. advances the rule of law, and the human rights and fundamental freedoms in the Bill of Rights;\nc. permits the development of the law; and\nd. contributes to good governance.\n\n2. If there is a conflict between different language versions of this Constitution, the English language version prevails.\n\n3. Every provision of this Constitution shall be construed according to the doctrine of interpretation that the law is always speaking and, therefore, among other things—\na. a function or power conferred by this Constitution on an office may be performed or exercised as occasion requires, by the person holding the office;\nb. any reference in this Constitution to a State or other public office or officer, or a person holding such an office, includes a reference to the person acting in or otherwise performing the functions of the office at any particular time;\nc. a reference in this Constitution to an office, State organ or locality named in this Constitution shall be read with any formal alteration necessary to make it applicable in the circumstances; and\nd. a reference in this Constitution to an office, body or organisation is, if the office, body or organisation has ceased to exist, a reference to its successor or to the equivalent office, body or organisation.\n\n4. In this Constitution, unless the context otherwise requires—\na. if a word or expression is defined in this Constitution, any grammatical variation or cognate expression of the word or expression has a corresponding meaning, read with the changes required by the context; and\nb. the word \"includes\" means \"includes, but is not limited to\".\n\n5. In calculating time between two events for any purpose under this Constitution, if the time is expressed—\na. as days, the day on which the first event occurs shall be excluded, and the day by which the last event may occur shall be included;\nb. as months, the time period ends at the beginning of the day in the relevant month—\n   i. that has the same number as the date on which the period began, if that month has a corresponding date; or\n   ii. that is the last day of that month, in any other case; or\nc. as years, the period of time ends at the beginning of the date of the relevant year that corresponds to the date on which the period began.\n\n6. If a period of time prescribed by this Constitution for any purpose is six days or less, Sundays and public holidays shall not count when calculating the time.\n\n7. If, in any particular circumstances, the period of time prescribed by this Constitution ends on a Sunday or a public holiday, the period extends to the first subsequent day that is not a Sunday or public holiday.\n\n8. If a particular time is not prescribed by this Constitution for performing a required act, the act shall be done without unreasonable delay, and as often as occasion arises.\n\n9. If any person or State organ has authority under this Constitution to extend a period of time prescribed by this Constitution, the authority may be exercised either before or after the end of the period, unless a contrary intention is expressly mentioned in the provision conferring the authority.\n\n10. Except to the extent that this Constitution provides otherwise, if a person has vacated an office established under this Constitution, the person may, if qualified, again be appointed, elected or otherwise selected to hold the office in accordance with this Constitution.\n\n11. If a function or power conferred on a person under this Constitution is exercisable by the person only on the advice or recommendation, with the approval or consent of, or on consultation with, another person, the function may be performed or the power exercised only on that advice, recommendation, with that approval or consent, or after that consultation, except to the extent that this Constitution provides otherwise."
+        },
+        {
+          "number": 260,
+          "title": "Interpretation",
+          "content": "In this Constitution, unless the context requires otherwise—\n\"adult\" means an individual who has attained the age of eighteen years;\n\"affirmative action\" includes any measure designed to overcome or ameliorate an inequity or the systemic denial or infringement of a right or fundamental freedom;\n\"child\" means an individual who has not attained the age of eighteen years;\n\"contravene\" includes fail to comply with;\n\"county legislation\" means a law made by a county government or under authority conferred by a county Assembly;\n\"disability\" includes any physical, sensory, mental, psychological or other impairment, condition or illness that has, or is perceived by significant sectors of the community to have, a substantial or long-term effect on an individual's ability to carry out ordinary day-to-day activities;\n\"document\" includes—\na. any publication, or any matter written, expressed, or inscribed on any substance by means of letters, figures or marks, or by more than one of those means, that is intended to be used or may be used for the purpose of recording that matter; and\nb. electronic files;\n\"effective date\" means the date that this Constitution came into force;\n\"fail\" includes refuse;\n\"financial year\" means the period of twelve months ending on the thirtieth day of June or other day prescribed by national legislation, but the initial financial year of any entity is the period of time from its coming into existence until the immediately following thirtieth day of June, or other day prescribed by national legislation;\n\"Gazette\" means the Kenya Gazette published by authority of the national government, or a supplement to the Kenya Gazette;\n\"guarantee\" means any absolute or conditional promise, commitment or undertaking by the national government to partially or completely re-pay any loan to a county government or any person;\n\"judicial officer\" means a registrar, deputy registrar, magistrate, Kadhi or the presiding officer of a court established under Article 169 (1) (d);\n\"land\" includes—\na. the surface of the earth and the subsurface rock;\nb. any body of water on or under the surface;\nc. marine waters in the territorial sea and exclusive economic zone;\nd. natural resources completely contained on or under the surface; and\ne. the air space above the surface;\n\"legislation\" includes—\na. an Act of Parliament, or a law made under authority conferred by an Act of Parliament; or\nb. a law made by an assembly of a county government, or under authority conferred by such a law;\n\"loan\" includes any form of borrowing, lending or deferred payment in respect of which money from a public fund may be used, or is required to be used, for payment or repayment;\n\"marginalised community\" means—\na. a community that, because of its relatively small population or for any other reason, has been unable to fully participate in the integrated social and economic life of Kenya as a whole;\nb. a traditional community that, out of a need or desire to preserve its unique culture and identity from assimilation, has remained outside the integrated social and economic life of Kenya as a whole;\nc. an indigenous community that has retained and maintained a traditional lifestyle and livelihood based on a hunter or gatherer economy; or\nd. pastoral persons and communities, whether they are—\n   i. nomadic; or\n   ii. a settled community that, because of its relative geographic isolation, has experienced only marginal participation in the integrated social and economic life of Kenya as a whole;\n\"marginalised group\" means a group of people who, because of laws or practices before, on, or after the effective date, were or are disadvantaged by discrimination on one or more of the grounds in Article 27 (4);\n\"national legislation\" means an Act of Parliament, or a law made under authority conferred by an Act of Parliament;\n\"natural resources\" means the physical non-human factors and components, whether renewable or non-renewable, including—\na. sunlight;\nb. surface and groundwater;\nc. forests, biodiversity and genetic resources; and\nd. rocks, minerals, fossil fuels and other sources of energy;\n\"older member of society\" means a person who has attained the age of sixty years;\n\"person\" includes a company, association or other body of persons whether incorporated or unincorporated;\n\"political party\" means an association contemplated in Part 3 of Chapter Seven;\n\"property\" includes any vested or contingent right to, or interest in or arising from—\na. land, or permanent fixtures on, or improvements to, land;\nb. goods or personal property;\nc. intellectual property; or\nd. money, choses in action or negotiable instruments;\n\"public officer\" means—\na. any State officer; or\nb. any person, other than a State officer, who holds a public office;\n\"public office\" means an office in the national government, a county government or the public service, if the remuneration and benefits of the office are payable directly from the Consolidated Fund or directly out of money provided by Parliament;\n\"public service\" means the collectivity of all individuals, other than State officers, performing a function within a State organ;\n\"Republic\" means the Republic of Kenya;\n\"State\", when used as a noun, means the collectivity of offices, organs and other entities comprising the government of the Republic under this Constitution;\n\"State office\" means any of the following offices—\na. President;\nb. Deputy President;\nc. Cabinet Secretary;\nd. Member of Parliament;\ne. Judges and Magistrates;\nf. member of a commission to which Chapter Fifteen applies;\ng. holder of an independent office to which Chapter Fifteen applies;\nh. member of a county assembly, governor or deputy governor of a county, or other member of the executive committee of a county government;\ni. Attorney-General;\nj. Director of Public Prosecutions;\nk. Secretary to the Cabinet;\nl. Principal Secretary;\nm. Chief of the Kenya Defence Forces;\nn. commander of a service of the Kenya Defence Forces;\no. Director-General of the National Intelligence Service;\np. Inspector-General, and the Deputy Inspectors-General, of the National Police Service; or\nq. an office established and designated as a State office by national legislation;\n\"State officer\" means a person holding a State office;\n\"State organ\" means a commission, office, agency or other body established under this Constitution;\n\"writing\" includes printing, photography, lithography, typewriting, Braille, and any other means of representing or reproducing words in a visible form; and\n\"youth\" means the collectivity of all individuals in the Republic who—\na. have attained the age of eighteen years; but\nb. have not attained the age of thirty-five years."
+        }
+      ]
+    }
+  ]
+},
+{
+  "chapter": "CHAPTER 18. TRANSITIONAL AND CONSEQUENTIAL PROVISIONS",
+  "parts": [
+    {
+      "part": "",
+      "articles": [
+        {
+          "number": "261",
+          "title": "Consequential legislation",
+          "content": "1. Parliament shall enact any legislation required by this Constitution to be enacted to govern a particular matter within the period specified in the Fifth Schedule, commencing on the effective date.\n2. Despite clause (1), the National Assembly may, by resolution supported by the votes of at least two-thirds of all the members of the National Assembly, extend the period prescribed in respect of any particular matter under clause (1), by a period not exceeding one year.\n3. The power of the National Assembly contemplated under clause (2), may be exercised—\na. only once in respect of any particular matter; and\nb. only in exceptional circumstances to be certified by the Speaker of the National Assembly.\n4. For the purposes of clause (1), the Attorney-General, in consultation with the Commission for the Implementation of the Constitution, shall prepare the relevant Bills for tabling before Parliament, as soon as reasonably practicable, to enable Parliament to enact the legislation within the period specified.\n5. If Parliament fails to enact any particular legislation within the specified time, any person may petition the High Court on the matter.\n6. The High Court in determining a petition under clause (5) may—\na. make a declaratory order on the matter; and\nb. transmit an order directing Parliament and the Attorney-General to take steps to ensure that the required legislation is enacted, within the period specified in the order, and to report the progress to the Chief Justice.\n7. If Parliament fails to enact legislation in accordance with an order under clause (6) (b), the Chief Justice shall advise the President to dissolve Parliament and the President shall dissolve Parliament.\n8. If Parliament has been dissolved under clause (7), the new Parliament shall enact the required legislation within the periods mentioned in the Fifth Schedule beginning with the date of commencement of the term of the new Parliament.\n9. If the new Parliament fails to enact legislation in accordance with clause (8), the provisions of clauses (1) to (8) shall apply afresh."
+        },
+        {
+          "number": "262",
+          "title": "Transitional and consequential provisions",
+          "content": "The transitional and consequential provisions set out in the Sixth Schedule shall take effect on the effective date."
+        },
+        {
+          "number": "263",
+          "title": "Effective Date",
+          "content": "This Constitution shall come into force on its promulgation by the President or on the expiry of a period of fourteen days from the date of the publication in the Gazette of the final result of the referendum ratifying this Constitution, whichever is the earlier."
+        },
+        {
+          "number": "264",
+          "title": "Repeal of previous constitution",
+          "content": "The Constitution in force immediately before the effective date shall stand repealed on the effective date, subject to the Sixth Schedule."
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
+    
 
 
 ]
