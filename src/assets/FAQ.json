@@ -1,0 +1,84 @@
+{
+  "faqs": [
+    {
+      "question": "Why was the Constitution of Kenya 2010 such a big deal?",
+      "answer": "It replaced the independence constitution of 1963 and decades of amendments that concentrated power in the presidency. It was seen as a fresh start after years of political struggles, ethnic tensions, and demands for democracy."
+    },
+    {
+      "question": "What happened in 1990 that influenced Kenya’s constitutional reforms?",
+      "answer": "1990 saw widespread protests demanding multiparty democracy after years of one-party rule. The pressure eventually forced the government to start constitutional reforms that culminated in the 2010 Constitution."
+    },
+    {
+      "question": "What is habeas corpus and why is it important?",
+      "answer": "Habeas corpus is Latin for 'you shall have the body.' It’s a legal action that protects individuals from unlawful detention by requiring the state to justify holding someone in custody."
+    },
+    {
+      "question": "What does 'locus standi' mean in law?",
+      "answer": "It’s Latin for 'place to stand.' In legal terms, it means whether a person has the right to bring a case before a court."
+    },
+    {
+      "question": "Does Kenya have a Data Protection law?",
+      "answer": "Yes. The Data Protection Act, 2019 regulates how personal data is collected, stored, and used—similar to Europe’s GDPR."
+    },
+    {
+      "question": "What is the two-thirds gender rule?",
+      "answer": "The Constitution requires that no more than two-thirds of members of elective or appointive bodies be of the same gender. However, full compliance has been a major political and legal debate since 2010."
+    },
+    {
+      "question": "Why is Chapter Six of the Constitution controversial?",
+      "answer": "It demands leaders uphold integrity and ethics. Many court cases have tried to block politicians facing corruption charges from running for office, making it one of the most debated chapters."
+    },
+    {
+      "question": "What is the significance of Article 43?",
+      "answer": "Article 43 guarantees social and economic rights such as housing, food, health, and education—things not usually emphasized in older constitutions."
+    },
+    {
+      "question": "Can Kenya’s President serve more than two terms?",
+      "answer": "No. Article 142 caps it at two five-year terms. This was a direct reaction to Kenya’s history of prolonged presidential rule."
+    },
+    {
+      "question": "What does 'public participation' actually mean in Kenya?",
+      "answer": "It means citizens must be involved in government decisions like laws, budgets, and policies. Courts have even nullified laws for lack of public participation."
+    },
+    {
+      "question": "What is the Bill of Rights compared to other African constitutions?",
+      "answer": "Kenya’s Bill of Rights is considered one of the most progressive in Africa, covering not just civil rights but also socio-economic rights like healthcare and a clean environment."
+    },
+    {
+      "question": "How does the Constitution handle land ownership?",
+      "answer": "Land is classified as public, community, or private. This was designed to address Kenya’s long history of land injustices dating back to colonial times."
+    },
+    {
+      "question": "What is judicial independence under the 2010 Constitution?",
+      "answer": "Judges are now appointed by the Judicial Service Commission, not the president alone, which was meant to stop political interference in the courts."
+    },
+    {
+      "question": "What is the meaning of 'basic structure doctrine' in Kenyan law?",
+      "answer": "It’s the principle that some parts of the Constitution (like sovereignty of the people) are so fundamental that they cannot be changed even by a referendum. Kenya’s courts invoked it during the BBI case."
+    },
+    {
+      "question": "What are socio-economic rights in the Constitution?",
+      "answer": "These are rights like food, housing, healthcare, education, and clean water. They place an obligation on the state to progressively achieve them."
+    },
+    {
+      "question": "What is the history of the two houses of Parliament in Kenya?",
+      "answer": "Before 2010, Kenya had only the National Assembly. The Senate was reintroduced in the 2010 Constitution to represent counties."
+    },
+    {
+      "question": "What is the meaning of 'Article 1' sovereignty?",
+      "answer": "Article 1 says sovereignty belongs to the people of Kenya. They can exercise it directly through referenda and protests, or indirectly through elected leaders."
+    },
+    {
+      "question": "What is the role of the Supreme Court of Kenya?",
+      "answer": "Created in 2010, it hears presidential election petitions and interprets the Constitution. Its rulings are final."
+    },
+    {
+      "question": "What is the right to access information?",
+      "answer": "Article 35 gives every citizen the right to access government-held information, a tool for fighting corruption and promoting transparency."
+    },
+    {
+      "question": "What is Kenya’s history with emergency powers?",
+      "answer": "Unlike the old constitution, the 2010 Constitution limits emergency powers and ensures rights cannot be arbitrarily suspended."
+    }
+  ]
+}

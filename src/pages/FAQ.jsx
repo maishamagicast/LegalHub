@@ -1,41 +1,52 @@
 // src/pages/FAQS.jsx
 import FAQItem from "../components/FAQItem";
+import faqs from "../assets/FAQ.json";
 
-const FAQS = () => {
-  const faqs = [
-    {
-      question: "📜 What is the history of Kenya’s Constitution?",
-      answer:
-        "Kenya’s constitutional history dates back to independence in 1963. The current Constitution, promulgated in 2010, marked a historic milestone in democratic governance, devolution, and rights protection."
-    },
-    {
-      question: "⚖️ Why is the Constitution important?",
-      answer:
-        "It establishes the framework for governance, protects citizens’ rights, limits government power, and ensures justice, equality, and accountability."
-    },
-    {
-      question: "🏛️ What were the key events in making the 2010 Constitution?",
-      answer:
-        "The 2010 Constitution was the product of decades of struggle, including the Bomas Draft, Wako Draft, and public referendums. The final referendum was held on August 4, 2010, with 67% approval."
-    },
-    {
-      question: "🌍 How does it affect citizens today?",
-      answer:
-        "It introduced devolution, expanded the Bill of Rights, created independent commissions, and gave citizens more say in governance through public participation."
-    }
-  ];
+function FAQS() {
+  console.log(faqs);
 
   return (
-    <div className="p-6 max-w-3xl mx-auto">
-      <h1 className="text-3xl font-bold mb-6">About & FAQs</h1>
-      <p className="mb-6 text-gray-600">
-        Learn more about the history, importance, and impact of Kenya’s Constitution.
+    <div
+      style={{
+        display: "flex",
+        flexDirection: "column",
+        justifyContent: "center",
+        alignItems: "center",
+        minHeight: "100vh",
+        backgroundColor: "#f9fafb", // light gray background
+        padding: "20px"
+      }}
+    >
+      <h1
+        style={{
+          fontSize: "28px",
+          fontWeight: "bold",
+          marginBottom: "16px",
+          textAlign: "center"
+        }}
+      >
+         FAQs
+      </h1>
+
+      <p
+        style={{
+          marginBottom: "24px",
+          color: "#4b5563", // gray-600
+          textAlign: "center",
+          maxWidth: "600px",
+          lineHeight: "1.5"
+        }}
+      >
+        Learn more about the history, importance, and impact of Kenyan Constitution.
       </p>
-      {faqs.map((faq, idx) => (
-        <FAQItem key={idx} question={faq.question} answer={faq.answer} />
-      ))}
+
+      <div style={{ width: "100%", maxWidth: "700px" }}>
+        {faqs.faqs.map((faq, idx) => (
+          <FAQItem key={idx} question={faq.question} answer={faq.answer} />
+        ))}
+      </div>
     </div>
   );
-};
+}
 
 export default FAQS;

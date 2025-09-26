@@ -1,6 +1,6 @@
 [
     {
-    "chapter": "Chapter 1",
+    "chapter": "Chapter 1 : Sovereignty of the People and Supremacy of This Constitution",
     "title": "SOVEREIGNTY OF THE PEOPLE AND SUPREMACY OF THIS CONSTITUTION",
     "articles": [
         {
@@ -21,7 +21,7 @@
         ]
     },
     {
-  "chapter": "Chapter 2",
+  "chapter": "Chapter 2 : The Republic",
   "title": "THE REPUBLIC",
   "articles": [
     {
@@ -67,7 +67,7 @@
     ]
     },
     {
-  "chapter": "Chapter 3",
+  "chapter": "Chapter 3 : Citizenship",
   "title": "CITIZENSHIP",
   "articles": [
     {
@@ -108,7 +108,7 @@
     ]
     },
     {
-  "chapter": "Chapter 4",
+  "chapter": "Chapter 4 : The Bill of Rights",
   "parts": [
     {
       "part": "Part 1. General Provisions",
@@ -265,7 +265,7 @@
     ,
 
   {
-  "chapter": "Chapter 5",
+  "chapter": "Chapter 5 : Land and Environment",
   "parts": [
     {
       "part": "Part 1. Land",
@@ -347,7 +347,7 @@
     ,
 
     {
-  "chapter": "Chapter 6",
+  "chapter": "Chapter 6 : Leadership and Integrity",
   "title": "LEADERSHIP AND INTEGRITY",
   "articles": [
     {
@@ -393,7 +393,7 @@
     ]
     },
 {
-  "chapter": "Chapter 7",
+  "chapter": "Chapter 7 : Representation of the People",
   "parts": [
     {
       "part": "Part 1: Electoral System and Process",
@@ -474,7 +474,7 @@
     }
 ,
     {
-  "chapter": "Chapter 8",
+  "chapter": "Chapter 8 : The Parliament",
   "parts": [
     {
       "part": "Part 1: Establishment and Role of Parliament",
@@ -691,7 +691,7 @@
 ,
 
     {
-  "chapter": "Chapter 9",
+  "chapter": "Chapter 9 : The Executive",
   "parts": [
     {
       "part": "Part 1. Principles and Structure of the National Executive",
@@ -867,7 +867,7 @@
       ]
   },
   {
-  "chapter": "Chapter 10",
+  "chapter": "Chapter 10 : The Judiciary",
   "title": "Judiciary",
   "parts": [
     {
@@ -971,7 +971,7 @@
   }
   ,
   {
-  "chapter": "Chapter 11",
+  "chapter": "Chapter 11 : Devolved Government",
   "parts": [
     {
       "part": "Part 1. Objects and Principles of Devolved Government",
@@ -1148,7 +1148,7 @@
     ]
   },
   {
-    "chapter": "Chapter 12. Public Finance",
+    "chapter": "Chapter 12 : Public Finance",
   "parts": [
     {
       "part": "Part 1. Principles and Framework of Public Finance",
@@ -1328,7 +1328,7 @@
     ]
     },
     {
-  "chapter": "Chapter 13. The Public Service",
+  "chapter": "Chapter 13 : The Public Service",
   "parts": [
     {
       "part": "Part 1. Values and Principles of Public Service",
@@ -1379,7 +1379,7 @@
       ]
     },
     {
-  "chapter": "CHAPTER 14. NATIONAL SECURITY",
+  "chapter": "Chapter 14 : National Security",
   "parts": [
     {
       "part": "Part 1. National Security Organs",
@@ -1454,7 +1454,7 @@
     ]
   },
   {
-  "chapter": "Chapter 15. Commissions and Independent Offices",
+  "chapter": "Chapter 15 : Commissions and Independent Offices",
   "parts": [
     {
       "part": "General Provisions",
@@ -1499,7 +1499,7 @@
     ]
   },
   {
-  "chapter": "Chapter 16. Amendment of this Constitution",
+  "chapter": "Chapter 16 : Amendment of this Constitution",
   "parts": [
     {
       "part": "Amendment of the Constitution",
@@ -1524,7 +1524,7 @@
     ]
   },
   {
-  "chapter": "Chapter 17. General Provisions",
+  "chapter": "Chapter 17 : General Provisions",
   "parts": [
     {
       "part": "General Provisions",
@@ -1549,7 +1549,7 @@
   ]
 },
 {
-  "chapter": "CHAPTER 18. TRANSITIONAL AND CONSEQUENTIAL PROVISIONS",
+  "chapter": "Chapter 18 : Transitional and Consequential Provisions",
   "parts": [
     {
       "part": "",
